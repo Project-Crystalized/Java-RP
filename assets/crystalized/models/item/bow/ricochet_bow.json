@@ -1,0 +1,6 @@
+{
+	"parent":"minecraft:templates/bow-parent",
+	"textures":{
+		"layer0":"crystalized:item/bow/ricochet_bow"
+	}
+}

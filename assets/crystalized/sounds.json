@@ -1,0 +1,47 @@
+{
+    "effect.ally_kill": {
+	"sounds": [
+            {"name": "crystalized:effects/ally_kill", "stream": false}
+        ]
+    },
+    "effect.countdown": {
+	"sounds": [
+            {"name": "crystalized:effects/countdown", "stream": false}
+        ]
+    },
+    "effect.countdown_end": {
+	"sounds": [
+            {"name": "crystalized:effects/countdown_end", "stream": false}
+        ]
+    },
+    "effect.countdown_alt": {
+	"sounds": [
+            {"name": "crystalized:effects/countdown_alt", "stream": false}
+        ]
+    },
+    "effect.kill_streak_1": {
+	"sounds": [
+            {"name": "crystalized:effects/kill_streak_1", "stream": false}
+        ]
+    },
+    "effect.kill_streak_2": {
+	"sounds": [
+            {"name": "crystalized:effects/kill_streak_2", "stream": false}
+        ]
+    },
+    "effect.kill_streak_3": {
+	"sounds": [
+            {"name": "crystalized:effects/kill_streak_3", "stream": false}
+        ]
+    },
+    "effect.kill_streak_4": {
+	"sounds": [
+            {"name": "crystalized:effects/kill_streak_4", "stream": false}
+        ]
+    },
+    "effect.kill_streak_5": {
+	"sounds": [
+            {"name": "crystalized:effects/kill_streak_5", "stream": false}
+        ]
+    }
+}

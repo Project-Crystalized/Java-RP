@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "crystalized:block/nexus_purple"
+    },
+    "facing=north": {
+      "model": "crystalized:block/nexus_red"
+    },
+    "facing=south": {
+      "model": "crystalized:block/nexus_white"
+    },
+    "facing=west": {
+      "model": "crystalized:block/nexus_yellow"
+    }
+  }
+}

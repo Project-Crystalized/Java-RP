@@ -1,0 +1,34 @@
+{
+    "parent": "minecraft:templates/crossbow-parent",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "overrides": [
+        {"predicate": {"pulling": 1},"model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1,"pull": 0.58},"model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1,"pull": 1.0},"model": "item/crossbow_pulling_2"},
+        {"predicate": {"charged": 1},"model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1,"firework": 1},"model": "item/crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 1},"model": "crystalized:item/crossbow/multi_crossbow_standby"},
+        {"predicate": {"custom_model_data": 1, "pulling": 1},"model": "crystalized:item/crossbow/multi_crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 1, "pulling": 1,"pull": 0.58},"model": "crystalized:item/crossbow/multi_crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 1, "pulling": 1,"pull": 1.0},"model": "crystalized:item/crossbow/multi_crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 1, "charged": 1},"model": "crystalized:item/crossbow/multi_crossbow_arrow"},
+        {"predicate": {"custom_model_data": 1, "charged": 1,"firework": 1},"model": "crystalized:item/crossbow/multi_crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 2},"model": "crystalized:item/crossbow/quick_charge_crossbow_standby"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1},"model": "crystalized:item/crossbow/quick_charge_crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1,"pull": 0.58},"model": "crystalized:item/crossbow/quick_charge_crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1,"pull": 1.0},"model": "crystalized:item/crossbow/quick_charge_crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 2, "charged": 1},"model": "crystalized:item/crossbow/quick_charge_crossbow_arrow"},
+        {"predicate": {"custom_model_data": 2, "charged": 1,"firework": 1},"model": "crystalized:item/crossbow/quick_charge_crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 3},"model": "crystalized:item/crossbow/charged_crossbow_standby"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1},"model": "crystalized:item/crossbow/charged_crossbow_pulling_0"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1,"pull": 0.58},"model": "crystalized:item/crossbow/charged_crossbow_pulling_1"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1,"pull": 1.0},"model": "crystalized:item/crossbow/charged_crossbow_pulling_2"},
+        {"predicate": {"custom_model_data": 3, "charged": 1},"model": "crystalized:item/crossbow/charged_crossbow_arrow"},
+        {"predicate": {"custom_model_data": 3, "charged": 1,"firework": 1},"model": "crystalized:item/crossbow/chargede_crossbow_firework"}
+	]
+}

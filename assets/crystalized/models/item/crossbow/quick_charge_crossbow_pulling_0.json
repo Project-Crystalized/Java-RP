@@ -1,0 +1,6 @@
+{
+	"parent":"minecraft:templates/crossbow-parent",
+	"textures":{
+		"layer0":"crystalized:item/crossbow/quick_charge_crossbow_pulling_0"
+	}
+}
