@@ -16,6 +16,7 @@
           { "predicate": { "custom_model_data": 12}, "model": "crystalized:custommodel/monitor_windows11"},
           { "predicate": { "custom_model_data": 13}, "model": "crystalized:custommodel/traffic_cone"},
           { "predicate": { "custom_model_data": 14}, "model": "crystalized:custommodel/couch"},
-          { "predicate": { "custom_model_data": 15}, "model": "crystalized:custommodel/whiteboard"}
+          { "predicate": { "custom_model_data": 15}, "model": "crystalized:custommodel/whiteboard"},
+          { "predicate": { "custom_model_data": 16}, "model": "crystalized:custommodel/abby_frozen_yoghurt"}
 	]
 }
