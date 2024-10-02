@@ -17,6 +17,9 @@
           { "predicate": { "custom_model_data": 13}, "model": "crystalized:custommodel/traffic_cone"},
           { "predicate": { "custom_model_data": 14}, "model": "crystalized:custommodel/couch"},
           { "predicate": { "custom_model_data": 15}, "model": "crystalized:custommodel/whiteboard"},
-          { "predicate": { "custom_model_data": 16}, "model": "crystalized:custommodel/abby_frozen_yoghurt"}
+          { "predicate": { "custom_model_data": 16}, "model": "crystalized:custommodel/abby_frozen_yoghurt"},
+          { "predicate": { "custom_model_data": 17}, "model": "crystalized:custommodel/vanilla_fro_yo_machine"},
+          { "predicate": { "custom_model_data": 18}, "model": "crystalized:custommodel/chocolate_fro_yo_machine"},
+          { "predicate": { "custom_model_data": 19}, "model": "crystalized:custommodel/caramel_fro_yo_machine"}
 	]
 }
