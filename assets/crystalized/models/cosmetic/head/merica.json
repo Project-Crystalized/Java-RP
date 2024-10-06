@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "MiteDA",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "crystalized:item/cosmetic/head/merica",
@@ -232,6 +232,11 @@
 	"display": {
 		"ground": {
 			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [-154.92, 26.74, -177.2],
+			"translation": [0, 5.25, 0],
+			"scale": [0.9, 0.9, 0.9]
 		},
 		"head": {
 			"translation": [0, 18, -0.25],
