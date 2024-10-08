@@ -21,6 +21,11 @@
           { "predicate": { "custom_model_data": 17}, "model": "crystalized:custommodel/vanilla_fro_yo_machine"},
           { "predicate": { "custom_model_data": 18}, "model": "crystalized:custommodel/chocolate_fro_yo_machine"},
           { "predicate": { "custom_model_data": 19}, "model": "crystalized:custommodel/caramel_fro_yo_machine"},
-          { "predicate": { "custom_model_data": 20}, "model": "crystalized:custommodel/handheld/miteda_suck"}
+          { "predicate": { "custom_model_data": 20}, "model": "crystalized:custommodel/handheld/miteda_suck"},
+          { "predicate": { "custom_model_data": 21}, "model": "crystalized:custommodel/abby_juice_dispenser"},
+          { "predicate": { "custom_model_data": 22}, "model": "crystalized:custommodel/abby_juice_dispenser_orange"},
+          { "predicate": { "custom_model_data": 23}, "model": "crystalized:custommodel/abby_juice_dispenser_lemon"},
+          { "predicate": { "custom_model_data": 24}, "model": "crystalized:custommodel/record_player"},
+          { "predicate": { "custom_model_data": 25}, "model": "crystalized:custommodel/couch_green"}
 	]
 }
