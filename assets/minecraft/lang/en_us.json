@@ -1,35 +1,5 @@
 {
 	"credits":"Tubbo_ & The TubNet Team (some assets), Callum_Is_Bad, The TubNet Community, The Crystalized Open Source Team.",
-	"notes":"alot of this shit is totally pointleses, but I made most of the strings here for fun",
-
-	"crystalized.placeholder":"Placeholder Text",
-	"crystalized.placeholder.big":"Placeholder Text. If you're a player and you're reading this, please report this to our Discord as a bug. If you're a Developer and you're seeing this, this can be used to visualize long text, kinda like lorem ipsum.",
-
-	"crystalized.game.countdown.start":"Starting in:",
-	"crystalized.game.countdown.5":"5",
-	"crystalized.game.countdown.4":"4",
-	"crystalized.game.countdown.3":"3",
-	"crystalized.game.countdown.2":"2",
-	"crystalized.game.countdown.1":"1",
-	"crystalized.game.countdown.go":"Go!",
-
-	"crystalized.ls.name":"LiteStrike",
-	"crystalized.ls.desc":"In this 4v4 gamemode, You must either place the S.H.A.R.D device and defend it before it explodes or Destory it before it explodes.",
-	"crystalized.ls.credits":"Heavily Inspired by Lightstrike from TubNet. (re)Created by: The Crystalized Open Source Team.",
-	"crystalized.ls.link":"https://github.com/Mira438/crystalized",
-	"crystalized.ls.team.breaker":"Breakers",
-	"crystalized.ls.team.breaker.objective":"Destory the S.H.A.R.D device in the required time or kill all the Placers!",
-	"crystalized.ls.team.placers":"Placers",
-	"crystalized.ls.team.placers.objective":"Place the S.H.A.R.D device in the required time or kill all the Breakers!",
-	"crystalized.ls.hasthedevice1":"[!] ",
-	"crystalized.ls.hasthedevice2:":"has the S.H.A.R.D",
-	"crystalized.ls.hasdroppeddevice1":"[!] ",
-	"crystalized.ls.hasdroppeddevice2":" has dropped the S.H.A.R.D",
-	"crystalized.ls.hasplanted1.breaker":"[!] ",
-	"crystalized.ls.hasplanted2.breaker":" has planted the star. Defend it from the Breaker!",
-	"crystalized.ls.hasplanted1.placers":"[!] ",
-	"crystalized.ls.hasplanted2.placers":" has planted the star. Destroy it before it explodes!",
-	"crystalized.ls.eventplaceholder":"[!] An special event is happening, Check your surroundings.",
 
 	"crystalized.item.shard.name":"S.H.A.R.D",
 	"crystalized.item.shard.desc":"A heavy device, You have to plant this in the required time and defend it before this explodes. Hold right click to place.",
@@ -39,6 +9,7 @@
 	"crystalized.item.slimesword.desc":"Pushes players with great knockback and slows them down.",
 	"crystalized.item.pufferfishsword.name":"Pufferfish Sword",
 	"crystalized.item.pufferfishsword.desc":"Poisons players on contact.",
+
 	"crystalized.item.multicrossbow.name":"Multi Crossbow",
 	"crystalized.item.multicrossbow.desc":"Shoots 3 arrows at once.",
 	"crystalized.item.quickchargecrossbow.name":"Quick Charge Crossbow",
@@ -46,6 +17,7 @@
 	"crystalized.item.chargedcrossbow.name":"Charged Crossbow",
 	"crystalized.item.chargedcrossbow.desc":"Replaces arrows with a lazer beam attack that hits players instantly! Amplified with Explosive & Dragon arrows.",
 	"crystalized.item.marksmanbow.name":"Marksman Bow",
+
 	"crystalized.item.marksmanbow.desc":"Does extra damage every 10 blocks.",
 	"crystalized.item.explosivebow.name":"Explosive Bow",
 	"crystalized.item.explosivebow.desc":"Arrows explode on impact. Explosive Arrows will do extra damage. Amplified with Explosive Arrows.",
