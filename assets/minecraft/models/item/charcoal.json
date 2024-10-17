@@ -26,6 +26,9 @@
           { "predicate": { "custom_model_data": 22}, "model": "crystalized:custommodel/abby_juice_dispenser_orange"},
           { "predicate": { "custom_model_data": 23}, "model": "crystalized:custommodel/abby_juice_dispenser_lemon"},
           { "predicate": { "custom_model_data": 24}, "model": "crystalized:custommodel/record_player"},
-          { "predicate": { "custom_model_data": 25}, "model": "crystalized:custommodel/couch_green"}
+          { "predicate": { "custom_model_data": 25}, "model": "crystalized:custommodel/couch_green"},
+          { "predicate": { "custom_model_data": 26}, "model": "crystalized:custommodel/miteda_plate"},
+          { "predicate": { "custom_model_data": 27}, "model": "crystalized:custommodel/grand_piano"},
+          { "predicate": { "custom_model_data": 28}, "model": "crystalized:custommodel/grand_piano_stool"}
 	]
 }

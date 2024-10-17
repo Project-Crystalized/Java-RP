@@ -3,6 +3,7 @@
     "textures": {"layer0": "item/raw_iron"},
     "overrides": [
           { "predicate": { "custom_model_data": 1}, "model": "crystalized:cosmetic/head/merica"},
-          { "predicate": { "custom_model_data": 2}, "model": "crystalized:cosmetic/handheld/merica_flag"}
+          { "predicate": { "custom_model_data": 2}, "model": "crystalized:cosmetic/handheld/merica_flag"},
+          { "predicate": { "custom_model_data": 3}, "model": "crystalized:cosmetic/head/beanie"}
 	]
 }

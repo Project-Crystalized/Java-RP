@@ -1,0 +1,80 @@
+{
+	"credit": "MiteDA",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "crystalized:item/custommodel/miteda_plate",
+		"particle": "crystalized:item/custommodel/miteda_plate"
+	},
+	"elements": [
+		{
+			"from": [2, 1, 2],
+			"to": [14, 2, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [6, 7, 12, 7.5], "texture": "#0"},
+				"east": {"uv": [6, 7.5, 12, 8], "texture": "#0"},
+				"south": {"uv": [6, 8, 12, 8.5], "texture": "#0"},
+				"west": {"uv": [6, 8.5, 12, 9], "texture": "#0"},
+				"up": {"uv": [6, 6, 0, 0], "texture": "#0"},
+				"down": {"uv": [6, 6, 0, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.75, 0, 5],
+			"to": [11.75, 1, 12],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8.75, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 9, 9.5, 9.5], "texture": "#0"},
+				"east": {"uv": [9.5, 0, 13, 0.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0.5, 13, 1], "texture": "#0"},
+				"west": {"uv": [9.5, 1, 13, 1.5], "texture": "#0"},
+				"up": {"uv": [9.5, 3.5, 6, 0], "texture": "#0"},
+				"down": {"uv": [9.5, 3.5, 6, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [79.25, 0, 0],
+			"translation": [0, 4.5, 6.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [78.5, 0, 0],
+			"translation": [0, 4, 5.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [23.19, 5.47, 2.54],
+			"translation": [-1.25, 9, 0.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [16.52, -1.68, 0.39],
+			"translation": [1.25, 8.75, 0.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [31.5, -22.8, 9.88],
+			"translation": [-1, 5, 0]
+		},
+		"head": {
+			"translation": [0, -30.425, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -0.25, -9.5],
+			"scale": [1.3, 1.3, 1.3]
+		}
+	},
+	"groups": [
+		{
+			"name": "model",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
