@@ -32,6 +32,7 @@
           { "predicate": { "custom_model_data": 28}, "model": "crystalized:custommodel/grand_piano_stool"},
           { "predicate": { "custom_model_data": 29}, "model": "crystalized:custommodel/bomb/toaster_inactive"},
           { "predicate": { "custom_model_data": 30}, "model": "crystalized:custommodel/bomb/toaster_active"},
-          { "predicate": { "custom_model_data": 31}, "model": "crystalized:custommodel/bomb/toaster_done"}
+          { "predicate": { "custom_model_data": 31}, "model": "crystalized:custommodel/bomb/toaster_done"},
+          { "predicate": { "custom_model_data": 32}, "model": "crystalized:custommodel/wamdonalds"}
 	]
 }
