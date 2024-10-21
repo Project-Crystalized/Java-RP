@@ -29,6 +29,9 @@
           { "predicate": { "custom_model_data": 25}, "model": "crystalized:custommodel/couch_green"},
           { "predicate": { "custom_model_data": 26}, "model": "crystalized:custommodel/miteda_plate"},
           { "predicate": { "custom_model_data": 27}, "model": "crystalized:custommodel/grand_piano"},
-          { "predicate": { "custom_model_data": 28}, "model": "crystalized:custommodel/grand_piano_stool"}
+          { "predicate": { "custom_model_data": 28}, "model": "crystalized:custommodel/grand_piano_stool"},
+          { "predicate": { "custom_model_data": 29}, "model": "crystalized:custommodel/bomb/toaster_inactive"},
+          { "predicate": { "custom_model_data": 30}, "model": "crystalized:custommodel/bomb/toaster_active"},
+          { "predicate": { "custom_model_data": 31}, "model": "crystalized:custommodel/bomb/toaster_done"}
 	]
 }
