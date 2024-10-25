@@ -9,9 +9,9 @@
 	"crystalized.item.dragonarrow.desc":"On impact, will create dragon's breath around the arrow that will damage players when they walk on it.",
 	"crystalized.item.explosivearrow.name":"Explosive Arrow",
 	"crystalized.item.explosivearrow.desc":"Will explode on impact. Amplified with Explosive Bow",
-	"crystalized.item.3ds.name":"3DS",
-	"crystalized.item.3ds.desc":"This handy device will help you around the lobby and this server!",
-	"crystalized.item.3ds.actionbar":"Right Click to open 3DS",
+	"crystalized.item.shardcore3.name":"Shardcore Nexus 3",
+	"crystalized.item.shardcore3.desc":"This handy device will help you around the lobby and this server!",
+	"crystalized.item.shardcore3.actionbar":"Right Click to open device.",
 
 	"crystalized.sword.stone.desc":"Your starting Sword, you're gonna have to upgrade this at some point.",
 	"crystalized.sword.iron.desc":"Does higher damage than the Stone Sword with no special effects.",

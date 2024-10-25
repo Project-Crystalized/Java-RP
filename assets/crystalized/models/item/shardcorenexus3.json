@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Callum_Is_Bad using Blockbench",
 	"textures": {
-		"0": "crystalized:item/3ds",
-		"particle": "crystalized:item/3ds"
+		"0": "crystalized:item/shardcorenexus3",
+		"particle": "crystalized:item/shardcorenexus3"
 	},
 	"elements": [
 		{
