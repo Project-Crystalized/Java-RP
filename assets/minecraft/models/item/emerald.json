@@ -2,7 +2,7 @@
     "parent": "item/generated",
     "textures": {"layer0": "item/emerald"},
     "overrides": [
-          { "predicate": { "custom_model_data": 1}, "model": "crystalized:item/shardcorenexus3"},
-          { "predicate": { "custom_model_data": 2}, "model": "crystalized:item/shardcorenexus3_open"}
+          { "predicate": { "custom_model_data": 1}, "model": "crystalized:shardcore_nexus/shardcorenexus3"},
+          { "predicate": { "custom_model_data": 2}, "model": "crystalized:shardcore_nexus/shardcorenexus3_open"}
 	]
 }
