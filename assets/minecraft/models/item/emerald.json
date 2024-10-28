@@ -16,6 +16,9 @@
           { "predicate": { "custom_model_data": 12}, "model": "crystalized:shardcore_nexus/shardcorenexus3_augustify_attention"},
           { "predicate": { "custom_model_data": 13}, "model": "crystalized:shardcore_nexus/shardcorenexus3_abby1"},
           { "predicate": { "custom_model_data": 14}, "model": "crystalized:shardcore_nexus/shardcorenexus3_abby1_open"},
-          { "predicate": { "custom_model_data": 15}, "model": "crystalized:shardcore_nexus/shardcorenexus3_abby1_attention"}
+          { "predicate": { "custom_model_data": 15}, "model": "crystalized:shardcore_nexus/shardcorenexus3_abby1_attention"},
+          { "predicate": { "custom_model_data": 16}, "model": "crystalized:shardcore_nexus/shardcorenexus3_shadow1"},
+          { "predicate": { "custom_model_data": 17}, "model": "crystalized:shardcore_nexus/shardcorenexus3_shadow1_open"},
+          { "predicate": { "custom_model_data": 18}, "model": "crystalized:shardcore_nexus/shardcorenexus3_shadow1_attention"}
 	]
 }
