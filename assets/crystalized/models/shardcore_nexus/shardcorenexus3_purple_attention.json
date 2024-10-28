@@ -1,5 +1,5 @@
 {
-	"parent":"crystalized:shardcore_nexus/shardcorenexus3_attention",
+	"parent":"crystalized:shardcore_nexus/template/shardcorenexus3_attention",
 	"textures": {
 		"0":"crystalized:item/shardcore_nexus/shardcorenexus3_purple"
 	}

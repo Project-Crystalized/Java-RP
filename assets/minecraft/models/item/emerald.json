@@ -2,9 +2,9 @@
     "parent": "item/generated",
     "textures": {"layer0": "item/emerald"},
     "overrides": [
-          { "predicate": { "custom_model_data": 1}, "model": "crystalized:shardcore_nexus/shardcorenexus3"},
-          { "predicate": { "custom_model_data": 2}, "model": "crystalized:shardcore_nexus/shardcorenexus3_open"},
-          { "predicate": { "custom_model_data": 3}, "model": "crystalized:shardcore_nexus/shardcorenexus3_attention"},
+          { "predicate": { "custom_model_data": 1}, "model": "crystalized:shardcore_nexus/shardcorenexus3_blue"},
+          { "predicate": { "custom_model_data": 2}, "model": "crystalized:shardcore_nexus/shardcorenexus3_blue_open"},
+          { "predicate": { "custom_model_data": 3}, "model": "crystalized:shardcore_nexus/shardcorenexus3_blue_attention"},
           { "predicate": { "custom_model_data": 4}, "model": "crystalized:shardcore_nexus/shardcorenexus3_gray"},
           { "predicate": { "custom_model_data": 5}, "model": "crystalized:shardcore_nexus/shardcorenexus3_gray_open"},
           { "predicate": { "custom_model_data": 6}, "model": "crystalized:shardcore_nexus/shardcorenexus3_gray_attention"},
