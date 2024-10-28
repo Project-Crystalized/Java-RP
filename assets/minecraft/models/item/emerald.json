@@ -10,6 +10,9 @@
           { "predicate": { "custom_model_data": 6}, "model": "crystalized:shardcore_nexus/shardcorenexus3_gray_attention"},
           { "predicate": { "custom_model_data": 7}, "model": "crystalized:shardcore_nexus/shardcorenexus3_purple"},
           { "predicate": { "custom_model_data": 8}, "model": "crystalized:shardcore_nexus/shardcorenexus3_purple_open"},
-          { "predicate": { "custom_model_data": 9}, "model": "crystalized:shardcore_nexus/shardcorenexus3_purple_attention"}
+          { "predicate": { "custom_model_data": 9}, "model": "crystalized:shardcore_nexus/shardcorenexus3_purple_attention"},
+          { "predicate": { "custom_model_data": 10}, "model": "crystalized:shardcore_nexus/shardcorenexus3_augustify"},
+          { "predicate": { "custom_model_data": 11}, "model": "crystalized:shardcore_nexus/shardcorenexus3_augustify_open"},
+          { "predicate": { "custom_model_data": 12}, "model": "crystalized:shardcore_nexus/shardcorenexus3_augustify_attention"}
 	]
 }
