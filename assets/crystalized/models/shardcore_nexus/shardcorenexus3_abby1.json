@@ -1,0 +1,6 @@
+{
+	"parent":"crystalized:shardcore_nexus/template/shardcorenexus3",
+	"textures": {
+		"0":"crystalized:item/shardcore_nexus/shardcorenexus3_abby1"
+	}
+}
