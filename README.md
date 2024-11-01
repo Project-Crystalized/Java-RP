@@ -9,9 +9,9 @@ Abbymcraft - Modeling<br>
 The TubNet Team - Some assets<br>
 
 # Unicode List
-\uA000 - Negative Space (You need this before typing a double chest gui's unicode, this pushes the text backwards)
-\uA001 - LS Shop Gui
-\uA002 - 3DS (temporary blank)
+\uA000 - Negative Space (You need this before typing a double chest gui's unicode, this pushes the text backwards) <br>
+\uA001 - LS Shop Gui <br>
+\uA002 - 3DS (temporary blank) <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
