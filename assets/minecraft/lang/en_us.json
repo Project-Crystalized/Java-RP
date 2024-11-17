@@ -4,7 +4,7 @@
 	"crystalized.item.bomb.name":"The Bomb!",
 	"crystalized.item.bomb.desc":"This is the bomb, You need to plant this at one of the bombsites in the required time. Hold Right Click on Terracotta to plant.",
 	"crystalized.item.bomb.desc2":"insert lore here, make this part italics and a line between this and the preview text so it looks cool or smth idfk",
-	"crystalized.item.nexusblock":"Nexus Block",
+	"crystalized.item.nexusblock.name":"Nexus Block",
 	"crystalized.item.dragonarrow.name":"Dragon Arrow",
 	"crystalized.item.dragonarrow.desc":"On impact, will create dragon's breath around the arrow that will damage players when they walk on it.",
 	"crystalized.item.explosivearrow.name":"Explosive Arrow",
