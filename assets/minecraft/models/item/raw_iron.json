@@ -6,6 +6,7 @@
           { "predicate": { "custom_model_data": 2}, "model": "crystalized:cosmetic/handheld/merica_flag"},
           { "predicate": { "custom_model_data": 3}, "model": "crystalized:cosmetic/head/beanie"},
           { "predicate": { "custom_model_data": 4}, "model": "crystalized:cosmetic/head/fox_beret"},
-          { "predicate": { "custom_model_data": 5}, "model": "crystalized:cosmetic/handheld/handbag"}
+          { "predicate": { "custom_model_data": 5}, "model": "crystalized:cosmetic/handheld/handbag"},
+          { "predicate": { "custom_model_data": 6}, "model": "crystalized:cosmetic/head/headphones"}
 	]
 }
