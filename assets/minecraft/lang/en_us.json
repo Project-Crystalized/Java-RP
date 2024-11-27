@@ -10,6 +10,7 @@
 
 	"crystalized.game.knockoff.name":"Knockoff",
 	"crystalized.game.knockoff.round":"Round",
+	"crystalized.game.knockoff.lives":"Lives Left",
 	"crystalized.game.knockoff.nextround":"Next round",
 	"crystalized.game.knockoff.respawn1":"You will respawn in ",
 	"crystalized.game.knockoff.respawn2":" seconds.",
