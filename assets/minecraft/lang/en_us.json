@@ -3,14 +3,17 @@
 
 	"crystalized.game.generic.solo":"(Solo)",
 	"crystalized.game.generic.teamed":"(Teamed)",
+	"crystalized.game.generic.kills":"Kills",
+	"crystalized.game.generic.deaths":"Deaths",
+	"crystalized.game.generic.team":"Team",
+	"crystalized.game.generic.money":"Money",
 
 	"crystalized.game.knockoff.name":"Knockoff",
 	"crystalized.game.knockoff.round":"Round:",
 	"crystalized.game.knockoff.nextround":"Next round:",
-	"crystalized.game.knockoff.kills":"Kills:",
-	"crystalized.game.knockoff.deaths":"Deaths:",
 	"crystalized.game.knockoff.respawn1":"You will respawn in ",
 	"crystalized.game.knockoff.respawn2":" seconds.",
+	"crystalized.game.knockoff.powerupmessage":"Powerup!",
 
 	"crystalized.game.knockoff.team.blue":"Blue",
 	"crystalized.game.knockoff.team.cyan":"Cyan",
@@ -24,6 +27,8 @@
 	"crystalized.game.knockoff.team.red":"Red",
 	"crystalized.game.knockoff.team.white":"White",
 	"crystalized.game.knockoff.team.yellow":"Yellow",
+
+	"crystalized.game.litestrike":"Stay with your team!",
 
 	"crystalized.item.bomb.name":"The Bomb!",
 	"crystalized.item.bomb.desc":"This is the bomb, You need to plant this at one of the bombsites in the required time. Hold Right Click on Terracotta to plant.",
