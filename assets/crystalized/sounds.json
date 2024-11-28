@@ -43,5 +43,15 @@
 	"sounds": [
             {"name": "crystalized:effects/kill_streak_5", "stream": false}
         ]
+    },
+    "effect.knockoff_countdown": {
+	"sounds": [
+            {"name": "crystalized:effects/knockoff_countdown", "stream": false}
+        ]
+    },
+    "effect.nexus_crystal_destroyed": {
+	"sounds": [
+            {"name": "crystalized:effects/nexus_crystal_destroyed", "stream": false}
+        ]
     }
 }
