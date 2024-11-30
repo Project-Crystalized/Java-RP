@@ -11,7 +11,10 @@ The TubNet Team - Some assets<br>
 # Unicode List
 \uA000 - Negative Space (You need this before typing a double chest gui's unicode, this pushes the text backwards) <br>
 \uA001 - LS Shop Gui <br>
-\uA002 - 3DS (temporary blank) <br>
+\uA002 - Shardcore Home Menu <br>
+\uA003 - Shardcore Party Request Menu <br>
+\uA004 - ignore this but its reserved <br>
+\uA005 - Shardcore Shop - Main <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
@@ -31,6 +34,18 @@ The TubNet Team - Some assets<br>
 \uE115 - Arrow (SW) <br>
 \uE116 - Arrow (West) <br>
 \uE117 - Arrow (NW) <br>
+\uE120 - Blue Crystal Icon <br>
+\uE121 - Cyan Crystal Icon <br>
+\uE122 - Green Crystal Icon <br>
+\uE123 - Lime Crystal Icon <br>
+\uE124 - Magenta Crystal Icon <br>
+\uE125 - Red Crystal Icon <br>
+\uE126 - White Crystal Icon <br>
+\uE127 - Yellow Crystal Icon <br>
+\uE128 - Lemon Icon (literally a lemon temporarily) <br>
+\uE129 - Orange Icon (an orange temporarily) <br>
+\uE12A - Peach Icon (a peach temporarily) <br>
+\uE12B - Purple Icon (a grape temporarily) <br>
 
 \uE200 - LiteStrike Bossbar Green Left Piece <br>
 \uE201 - LiteStrike Bossbar Green Right Piece <br>
