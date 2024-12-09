@@ -1,0 +1,30 @@
+{
+	"crystalized.generic.yes":"Sí",
+	"crystalized.generic.accept":"Sí",
+	"crystalized.generic.deny":"No",
+
+	"crystalized.game.generic.team":"El Equipo",
+
+	"crystalized.shardcore.app.settings.name":"Opciones",
+	"crystalized.shardcore.app.profile.name":"Perfil",
+	"crystalized.shardcore.app.games.name":"Juegos",
+	"crystalized.shardcore.app.party.name":"Amigos y Partida",
+	"crystalized.shardcore.app.shop.name":"Tienda",
+
+	"crystalized.game.knockoff.team.blue":"Azul",
+	"crystalized.game.knockoff.team.cyan":"Cian",
+	"crystalized.game.knockoff.team.green":"Verde",
+	"crystalized.game.knockoff.team.lemon":"Lemón",
+	"crystalized.game.knockoff.team.lime":"Lime",
+	"crystalized.game.knockoff.team.magenta":"Magenta",
+	"crystalized.game.knockoff.team.orange":"Naranja",
+	"crystalized.game.knockoff.team.peach":"Peach",
+	"crystalized.game.knockoff.team.purple":"Violeta",
+	"crystalized.game.knockoff.team.red":"Roja",
+	"crystalized.game.knockoff.team.white":"Blanco",
+	"crystalized.game.knockoff.team.yellow":"Amarillo",
+
+	"title.multiplayer.other": "Multijugador - Crystalized",
+	"container.inventory":" ",
+	"menu.game": "§d§lCrystalized"
+}
