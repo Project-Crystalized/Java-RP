@@ -46,6 +46,16 @@ The TubNet Team - Some assets<br>
 \uE129 - Orange Icon (an orange temporarily) <br>
 \uE12A - Peach Icon (a peach temporarily) <br>
 \uE12B - Purple Icon (a grape temporarily) <br>
+\uE130 - Knockoff Respawn timer 0 <br>
+\uE131 - Knockoff Respawn timer 1 <br>
+\uE132 - Knockoff Respawn timer 2 <br>
+\uE133 - Knockoff Respawn timer 3 <br>
+\uE134 - Knockoff Respawn timer 4 <br>
+\uE135 - Knockoff Respawn timer 5 <br>
+\uE136 - Knockoff Respawn timer 6 <br>
+\uE137 - Knockoff Respawn timer 7 <br>
+\uE138 - Knockoff Respawn timer - Alive <br>
+\uE139 - Knockoff Repsawn timer - Eliminated <br>
 
 \uE200 - LiteStrike Bossbar Green Left Piece <br>
 \uE201 - LiteStrike Bossbar Green Right Piece <br>
