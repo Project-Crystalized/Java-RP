@@ -26,6 +26,12 @@ The TubNet Team - Some assets<br>
 \uE107 - Unfilled Star <br>
 \uE108 - Filled Star <br>
 \uE109 - Pointer Arrow <br>
+\uE10A - Left Click <br>
+\uE10B - Right Click <br>
+\uE10C - Playstation L2 button <br>
+\uE10D - Playstation R2 button <br>
+\uE10E - Switch ZL button <br>
+\uE10F - Switch ZR button <br>
 \uE110 - Arrow (North) <br>
 \uE111 - Arrow (NE) <br>
 \uE112 - Arrow (East) <br>
@@ -34,6 +40,8 @@ The TubNet Team - Some assets<br>
 \uE115 - Arrow (SW) <br>
 \uE116 - Arrow (West) <br>
 \uE117 - Arrow (NW) <br>
+\uE128 - Xbox LT button <br>
+\uE129 - Xbox RT button <br>
 \uE120 - Blue Crystal Icon <br>
 \uE121 - Cyan Crystal Icon <br>
 \uE122 - Green Crystal Icon <br>
@@ -69,3 +77,12 @@ The TubNet Team - Some assets<br>
 \uE209 - LiteStrike Bossbar Red Player Icon <br>
 \uE20A - LiteStrike Bossbar Red Player Icon (dead) <br>
 \uE20B - LiteStrike Bossbar Red Player Icon (disconnected) <br>
+
+\uE300 - Admin Rank  <br>
+\uE301 - Admin Icon <br>
+\uE302 - Developer Rank <br>
+\uE303 - Developer Icon <br>
+\uE304 - Contributor Rank <br>
+\uE305 - Contributor Icon <br>
+\uE306 - Mod Rank <br>
+\uE307 - Mod Icon <br>
