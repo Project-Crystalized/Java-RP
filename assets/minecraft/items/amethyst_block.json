@@ -1,0 +1,92 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_blue"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_cyan"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_green"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_lemon"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_lime"
+				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_magenta"
+				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_orange"
+				}
+			},
+			{
+				"threshold": 8,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_peach"
+				}
+			},
+			{
+				"threshold": 9,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_purple"
+				}
+			},
+			{
+				"threshold": 10,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_red"
+				}
+			},
+			{
+				"threshold": 11,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_white"
+				}
+			},
+			{
+				"threshold": 12,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:block/nexus_yellow"
+				}
+			}
+		]
+	}
+}
