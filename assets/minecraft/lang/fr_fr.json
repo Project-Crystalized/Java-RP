@@ -1,0 +1,20 @@
+{
+	"crystalized.game.generic.kills":"Détruites",
+	"crystalized.game.generic.team":"Équipe",
+
+	"crystalized.game.knockoff.round":"Tour",
+	"crystalized.game.knockoff.lives":"Vies Restantes",
+	"crystalized.game.knockoff.nextround":"Prochain tour",
+	"crystalized.game.knockoff.team.blue":"Bleu",
+	"crystalized.game.knockoff.team.cyan":"Cyan",
+	"crystalized.game.knockoff.team.green":"Verte",
+	"crystalized.game.knockoff.team.lemon":"Citron",
+	"crystalized.game.knockoff.team.lime":"Citron Vert",
+	"crystalized.game.knockoff.team.magenta":"Magenta",
+	"crystalized.game.knockoff.team.orange":"Orange",
+	"crystalized.game.knockoff.team.peach":"Pêche",
+	"crystalized.game.knockoff.team.purple":"Violet",
+	"crystalized.game.knockoff.team.red":"Rouge",
+	"crystalized.game.knockoff.team.white":"Blanche",
+	"crystalized.game.knockoff.team.yellow":"Jaune"
+}
