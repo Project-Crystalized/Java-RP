@@ -1,0 +1,149 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:condition",
+                    "on_false": {
+                     "type": "minecraft:model",
+                     "model": "crystalized:item/bow/marksman_bow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "entries": [
+                            {
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "crystalized:item/bow/marksman_bow_pulling_1"
+                                },
+                        "threshold": 0.65
+                        },
+                            {
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "crystalized:item/bow/marksman_bow_pulling_2"
+                            },
+                            "threshold": 0.9
+                            }
+                        ],
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "crystalized:item/bow/marksman_bow_pulling_0"
+                        },
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05
+                        },
+                    "property": "minecraft:using_item"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:condition",
+                    "on_false": {
+                     "type": "minecraft:model",
+                     "model": "crystalized:item/bow/explosive_bow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "entries": [
+                            {
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "crystalized:item/bow/explosive_bow_pulling_1"
+                                },
+                        "threshold": 0.65
+                        },
+                            {
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "crystalized:item/bow/explosive_bow_pulling_2"
+                            },
+                            "threshold": 0.9
+                            }
+                        ],
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "crystalized:item/bow/explosive_bow_pulling_0"
+                        },
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05
+                        },
+                    "property": "minecraft:using_item"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:condition",
+                    "on_false": {
+                     "type": "minecraft:model",
+                     "model": "crystalized:item/bow/ricochet_bow"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "entries": [
+                            {
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "crystalized:item/bow/ricochet_bow_pulling_1"
+                                },
+                        "threshold": 0.65
+                        },
+                            {
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "crystalized:item/bow/ricochet_bow_pulling_2"
+                            },
+                            "threshold": 0.9
+                            }
+                        ],
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "crystalized:item/bow/ricochet_bow_pulling_0"
+                        },
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05
+                        },
+                    "property": "minecraft:using_item"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:condition",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bow"
+            },
+            "on_true": {
+                "type": "minecraft:range_dispatch",
+                "entries": [
+                {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/bow_pulling_1"
+                },
+                "threshold": 0.65
+                },
+                {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/bow_pulling_2"
+                },
+                "threshold": 0.9
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bow_pulling_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+            },
+            "property": "minecraft:using_item"
+        }
+    }
+}

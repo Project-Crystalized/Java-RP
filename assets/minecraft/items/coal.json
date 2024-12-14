@@ -1,0 +1,113 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/boost_orb"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/bridge_orb"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/explosive_orb"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/grappling_orb"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/health_orb"
+				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/knockout_orb"
+				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/poison_orb"
+				}
+			},
+			{
+				"threshold": 8,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/orb/winged_orb"
+				}
+			},
+			{
+				"threshold": 9,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/totem/antiair_totem"
+				}
+			},
+			{
+				"threshold": 10,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/totem/cloud_totem"
+				}
+			},
+			{
+				"threshold": 11,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/totem/defense_totem"
+				}
+			},
+			{
+				"threshold": 12,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/totem/healing_totem"
+				}
+			},
+			{
+				"threshold": 13,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/totem/launch_totem"
+				}
+			},
+			{
+				"threshold": 14,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/totem/slime_totem"
+				}
+			},
+			{
+				"threshold": 15,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/hotbar_replay"
+				}
+			}
+		]
+	}
+}
