@@ -17,6 +17,10 @@
 					"model": "crystalized:item/arrow-explosive"
 				}
 			}
-		]
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/arrow"
+		}
 	}
 }

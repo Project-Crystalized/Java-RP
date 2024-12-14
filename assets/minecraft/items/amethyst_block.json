@@ -87,6 +87,10 @@
 					"model": "crystalized:block/nexus_yellow"
 				}
 			}
-		]
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/amethyst_block"
+		}
 	}
 }

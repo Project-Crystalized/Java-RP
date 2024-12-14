@@ -45,6 +45,10 @@
 					"model": "crystalized:cosmetic/head/headphones"
 				}
 			}
-		]
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/raw_iron"
+		}
 	}
 }

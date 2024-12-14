@@ -248,6 +248,10 @@
 					"model": "crystalized:custommodel/eaturgreenstoday"
 				}
 			}
-		]
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/charcoal"
+		}
 	}
 }

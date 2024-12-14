@@ -129,6 +129,10 @@
 					"model": "crystalized:shardcore_nexus/shardcorenexus3_shadow_attention"
 				}
 			}
-		]
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/emerald"
+		}
 	}
 }
