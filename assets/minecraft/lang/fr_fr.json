@@ -1,4 +1,9 @@
 {
+	"crystalized.generic.yes":"Oui",
+	"crystalized.generic.no":"Non",
+	"crystalized.generic.accept":"Oui",
+	"crystalized.generic.deny":"Non",
+
 	"crystalized.game.generic.kills":"Détruites",
 	"crystalized.game.generic.team":"Équipe",
 
@@ -22,5 +27,9 @@
 	"crystalized.game.knockoff.chat.deathknockoff":" a été renversé(é) par ",
 	"crystalized.game.knockoff.chat.deathgeneric":" est mort(e).",
 	"crystalized.game.knockoff.chat.eliminated":" a été éliminié(é) du jeu!",
-	"crystalized.game.knockoff.win":"Gagne le jeu!"
+	"crystalized.game.knockoff.win":"Gagne le jeu!",
+
+	"title.multiplayer.other": "Multijoueur - Crystalized",
+	"container.inventory":" ",
+	"menu.game": "§d§lCrystalized"
 }
