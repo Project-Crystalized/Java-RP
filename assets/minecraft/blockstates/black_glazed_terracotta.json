@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "crystalized:block/node_weak"
+    },
+    "facing=north": {
+      "model": "crystalized:block/node_strong"
+    }
+  }
+}
