@@ -6,6 +6,7 @@
 
 	"crystalized.game.generic.kills":"Détruites",
 	"crystalized.game.generic.team":"Équipe",
+	"crystalized.game.generic.money":"Argent",
 	"crystalized.game.generic.team.blue":"Bleu",
 	"crystalized.game.generic.team.cyan":"Cyan",
 	"crystalized.game.generic.team.green":"Verte",
@@ -28,6 +29,16 @@
 	"crystalized.game.knockoff.chat.deathgeneric":" est mort(e).",
 	"crystalized.game.knockoff.chat.eliminated":" a été éliminé(é) du jeu!",
 	"crystalized.game.knockoff.win":"Gagne le jeu!",
+
+	"crystalized.game.litestrike.objective":"Restez avec votre équipe",
+	"crystalized.game.litestrike.breakers":"Briseur(euse)",
+	"crystalized.game.litestrike.placers":"Placers",
+	"crystalized.game.litestrike.tutorial.generic1":"Tu es un ",
+	"crystalized.game.litestrike.tutorial.placer1":"Tuer l'équipe ennemie et les empêcher de briser la bombe!",
+	"crystalized.game.litestrike.tutorial.placer2":"",
+	"crystalized.game.litestrike.tutorial.breaker1":"Tuer l'équipe ennemie et les empêcher de placer la bombe!",
+	"crystalized.game.litestrike.tutorial.breaker2":"S'ils placent la bombe, brise la.",
+	"crystalized.game.litestrike.bombplanted":"La bombe a été posée!",
 
 	"title.multiplayer.other": "Multijoueur - Crystalized",
 	"container.inventory":" ",
