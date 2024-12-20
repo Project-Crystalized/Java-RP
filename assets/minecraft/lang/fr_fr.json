@@ -20,6 +20,7 @@
 	"crystalized.game.generic.team.white":"Blanche",
 	"crystalized.game.generic.team.yellow":"Jaune",
 
+	"crystalized.game.knockoff.name":"Knockoff",
 	"crystalized.game.knockoff.round":"Tour",
 	"crystalized.game.knockoff.lives":"Vies Restantes",
 	"crystalized.game.knockoff.nextround":"Prochain tour",
@@ -30,6 +31,7 @@
 	"crystalized.game.knockoff.chat.eliminated":" a été éliminé(é) du jeu!",
 	"crystalized.game.knockoff.win":"Gagne le jeu!",
 
+	"crystalized.game.litestrike.name":"Litestrike",
 	"crystalized.game.litestrike.objective":"Restez avec votre équipe",
 	"crystalized.game.litestrike.breakers":"Briseur(euse)",
 	"crystalized.game.litestrike.placers":"Placers",

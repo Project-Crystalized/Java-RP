@@ -23,12 +23,15 @@
 	"crystalized.shardcore.app.party.name":"Amigos y Partida",
 	"crystalized.shardcore.app.shop.name":"Tienda",
 
+	"crystalized.game.knockoff.name":"Knockoff",
 	"crystalized.game.knockoff.respawn1":"Tú de reaparecer en ",
 	"crystalized.game.knockoff.respawn2":" segundos.",
 	"crystalized.game.knockoff.chat.deathknockoff":" ha muerto porque de ",
 	"crystalized.game.knockoff.chat.deathgeneric":" ha muerto",
 	"crystalized.game.knockoff.chat.eliminated":" es eliminado del juego.",
 	"crystalized.game.knockoff.win":"Gana del juego!",
+
+	"crystalized.game.litestrike.name":"Litestrike",
 
 	"title.multiplayer.other": "Multijugador - Crystalized",
 	"container.inventory":" ",
