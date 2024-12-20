@@ -49,6 +49,41 @@
             {"name": "crystalized:effects/knockoff_countdown", "stream": false}
         ]
     },
+    "effect.ls_round_lost": {
+	"sounds": [
+            {"name": "crystalized:effects/ls_round_lost", "stream": false}
+        ]
+    },
+    "effect.ls_round_start": {
+	"sounds": [
+            {"name": "crystalized:effects/ls_round_start", "stream": false}
+        ]
+    },
+    "effect.ls_round_won": {
+	"sounds": [
+            {"name": "crystalized:effects/ls_round_won", "stream": false}
+        ]
+    },
+    "effect.star_plant": {
+	"sounds": [
+            {"name": "crystalized:effects/star_plant", "stream": false}
+        ]
+    },
+    "effect.ls_game_start": {
+	"sounds": [
+            {"name": "crystalized:effects/ls_game_start", "stream": false}
+        ]
+    },
+    "effect.ls_game_won": {
+	"sounds": [
+            {"name": "crystalized:effects/ls_game_won", "stream": false}
+        ]
+    },
+    "effect.ls_game_lost": {
+	"sounds": [
+            {"name": "crystalized:effects/ls_game_lost", "stream": false}
+        ]
+    },
     "effect.nexus_crystal_destroyed": {
 	"sounds": [
             {"name": "crystalized:effects/nexus_crystal_destroyed", "stream": false}
