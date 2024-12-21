@@ -1,0 +1,68 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "custom_model_data",
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:select",
+                    "cases": [
+                        {
+                            "model": {
+                                "type": "minecraft:range_dispatch",
+                                "entries": [
+                                    {
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "crystalized:custommodel/street_lamp"
+                                        },
+                                        "threshold": 0.0
+                                    },
+                                    {
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "crystalized:custommodel/street_lamp_on"
+                                        },
+                                        "threshold": 0.2265625
+                                    },
+                                    {
+                                        "model": {
+                                            "type": "minecraft:model",
+                                            "model": "crystalized:custommodel/street_lamp"
+                                        },
+                                        "threshold": 0.7421875
+				    }
+                                ],
+                                "property": "minecraft:time",
+                                "scale": 1,
+                                "source": "daytime"
+                            },
+                            "when": "minecraft:overworld"
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:range_dispatch",
+                        "entries": [
+                            {
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "crystalized:custommodel/street_lamp"
+                                },
+                                "threshold": 0
+                            }
+                        ],
+                        "property": "minecraft:time",
+                        "scale": 1,
+                        "source": "random"
+                    },
+                    "property": "minecraft:context_dimension"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/clock"
+        }
+    }
+}
