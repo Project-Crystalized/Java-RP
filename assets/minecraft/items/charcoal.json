@@ -247,6 +247,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:custommodel/eaturgreenstoday"
 				}
+			},
+			{
+				"threshold": 36,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/bomb/shard"
+				}
 			}
 		],
 		"fallback": {
