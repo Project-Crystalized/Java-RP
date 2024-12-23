@@ -69,11 +69,6 @@
             {"name": "crystalized:effects/star_plant", "stream": false}
         ]
     },
-    "effect.ls_game_start": {
-	"sounds": [
-            {"name": "crystalized:effects/ls_game_start", "stream": false}
-        ]
-    },
     "effect.ls_game_won": {
 	"sounds": [
             {"name": "crystalized:effects/ls_game_won", "stream": false}
