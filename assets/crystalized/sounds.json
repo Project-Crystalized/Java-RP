@@ -4,6 +4,11 @@
             {"name": "crystalized:effects/ally_kill", "stream": false}
         ]
     },
+    "effect.hazard_positive": {
+	"sounds": [
+            {"name": "crystalized:effects/hazard_positive", "stream": false}
+        ]
+    },
     "effect.countdown": {
 	"sounds": [
             {"name": "crystalized:effects/countdown", "stream": false}
