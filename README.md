@@ -40,12 +40,12 @@ The TubNet Team - Some assets<br>
 \uE115 - Arrow (SW) <br>
 \uE116 - Arrow (West) <br>
 \uE117 - Arrow (NW) <br>
-\uE128 - Xbox LT button <br>
-\uE129 - Xbox RT button <br>
-\uE12A - Health Bar Left <br>
-\uE12B - Health Bar Filled <br>
-\uE12C - Health Bar empty <br>
-\uE12D - Health Bar Right <br>
+\uE118 - Xbox LT button <br>
+\uE119 - Xbox RT button <br>
+\uE11A - Health Bar Left <br>
+\uE11B - Health Bar Filled <br>
+\uE11C - Health Bar empty <br>
+\uE11D - Health Bar Right <br>
 \uE120 - Blue Crystal Icon <br>
 \uE121 - Cyan Crystal Icon <br>
 \uE122 - Green Crystal Icon <br>
