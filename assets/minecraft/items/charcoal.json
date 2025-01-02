@@ -254,6 +254,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:custommodel/bomb/shard"
 				}
+			},
+			{
+				"threshold": 37,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/bomb/shard_break"
+				}
 			}
 		],
 		"fallback": {
