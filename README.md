@@ -32,6 +32,7 @@ The TubNet Team - Some assets<br>
 \uE10D - Playstation R2 button <br>
 \uE10E - Switch ZL button <br>
 \uE10F - Switch ZR button <br>
+
 \uE110 - Arrow (North) <br>
 \uE111 - Arrow (NE) <br>
 \uE112 - Arrow (East) <br>
@@ -46,6 +47,9 @@ The TubNet Team - Some assets<br>
 \uE11B - Health Bar Filled <br>
 \uE11C - Health Bar empty <br>
 \uE11D - Health Bar Right <br>
+\uE11E - Crossbow Death icon <br>
+\uE11F - Axe Death Icon <br>
+
 \uE120 - Blue Crystal Icon <br>
 \uE121 - Cyan Crystal Icon <br>
 \uE122 - Green Crystal Icon <br>
@@ -69,6 +73,7 @@ The TubNet Team - Some assets<br>
 \uE138 - Knockoff Respawn timer - Alive <br>
 \uE139 - Knockoff Repsawn timer - Eliminated <br>
 
+
 \uE200 - LiteStrike Bossbar Green Left Piece <br>
 \uE201 - LiteStrike Bossbar Green Right Piece <br>
 \uE202 - LiteStrike Bossbar Green Blank Tile <br>
@@ -81,6 +86,7 @@ The TubNet Team - Some assets<br>
 \uE209 - LiteStrike Bossbar Red Player Icon <br>
 \uE20A - LiteStrike Bossbar Red Player Icon (dead) <br>
 \uE20B - LiteStrike Bossbar Red Player Icon (disconnected) <br>
+
 
 \uE300 - Admin Rank  <br>
 \uE301 - Admin Icon <br>
