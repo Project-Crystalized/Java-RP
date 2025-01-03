@@ -41,6 +41,8 @@
 	"crystalized.game.litestrike.tutorial.breaker1":"Tuer l'équipe ennemie et les empêcher de placer la bombe!",
 	"crystalized.game.litestrike.tutorial.breaker2":"S'ils placent la bombe, brise la.",
 	"crystalized.game.litestrike.bombplanted":"La bombe a été posée!",
+	"crystalized.game.litestrike.money.receive":"tu as reçu ",
+	"crystalized.game.litestrike.money.loose_round":" pour perdre la ronde.",
 
 	"title.multiplayer.other": "Multijoueur - Crystalized",
 	"container.inventory":" ",
