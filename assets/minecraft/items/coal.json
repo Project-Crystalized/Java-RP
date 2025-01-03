@@ -114,6 +114,34 @@
 					"type": "minecraft:model",
 					"model": "crystalized:item/hotbar_leave"
 				}
+			},
+			{
+				"threshold": 17,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/weak_shard"
+				}
+			},
+			{
+				"threshold": 18,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/strong_shard"
+				}
+			},
+			{
+				"threshold": 19,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/nexus_shard"
+				}
+			},
+			{
+				"threshold": 20,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/nexus_shard-inactive"
+				}
 			}
 		],
 		"fallback": {
