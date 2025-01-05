@@ -4,7 +4,7 @@
 	"crystalized.generic.accept":"Oui",
 	"crystalized.generic.deny":"Non",
 
-	"crystalized.game.generic.kills":"Détruites",
+	"crystalized.game.generic.kills":"Tuer",
 	"crystalized.game.generic.team":"Équipe",
 	"crystalized.game.generic.money":"Argent",
 	"crystalized.game.generic.team.blue":"Bleu",
@@ -24,12 +24,17 @@
 	"crystalized.game.knockoff.round":"Tour",
 	"crystalized.game.knockoff.lives":"Vies Restantes",
 	"crystalized.game.knockoff.nextround":"Prochain tour",
+	"crystalized.game.knockoff.chat.powerup":"1 powerups sont apparus!",
+	"crystalized.game.knockoff.chat.powerup2":"2 powerups sont apparus!",
 	"crystalized.game.knockoff.chat.movetosafety1":"Le plan s'effrondre, ",
 	"crystalized.game.knockoff.chat.movetosafety2":"Mettez-vous en sécruité!",
+	"crystalized.game.knockoff.chat.hazard":"Danger entrant: ",
 	"crystalized.game.knockoff.chat.deathknockoff":" a été renversé(é) par ",
 	"crystalized.game.knockoff.chat.deathgeneric":" est mort(e).",
 	"crystalized.game.knockoff.chat.eliminated":" a été éliminé(é) du jeu!",
+	"crystalized.game.knockoff.chat.pickedup":" a ramassé ",
 	"crystalized.game.knockoff.win":"Gagne le jeu!",
+	"crystalized.game.knockoff.hazard.slimetime":"Temps du Slime",
 
 	"crystalized.game.litestrike.name":"Litestrike",
 	"crystalized.game.litestrike.objective":"Restez avec votre équipe",
@@ -43,6 +48,8 @@
 	"crystalized.game.litestrike.bombplanted":"La bombe a été posée!",
 	"crystalized.game.litestrike.money.receive":"tu as reçu ",
 	"crystalized.game.litestrike.money.loose_round":" pour perdre la ronde.",
+
+	"crystalized.orb.explosive.name":"Orbe Explosive",
 
 	"title.multiplayer.other": "Multijoueur - Crystalized",
 	"container.inventory":" ",
