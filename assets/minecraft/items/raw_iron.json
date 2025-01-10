@@ -44,6 +44,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:cosmetic/head/headphones"
 				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:cosmetic/head/crown"
+				}
 			}
 		],
 		"fallback": {
