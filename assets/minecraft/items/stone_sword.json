@@ -16,6 +16,34 @@
 					"type": "minecraft:model",
 					"model": "crystalized:item/pufferfish_sword"
 				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/underdog_sword_1"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/underdog_sword_2"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/underdog_sword_3"
+				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/underdog_sword_4"
+				}
 			}
 		],
 		"fallback": {
