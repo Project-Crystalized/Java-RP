@@ -49,7 +49,7 @@
 				"threshold": 7,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/underdog_sword_6"
+					"model": "crystalized:item/underdog_sword_5"
 				}
 			}
 		],
