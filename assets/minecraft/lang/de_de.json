@@ -162,6 +162,8 @@
 	"crystalized.sword.pufferfish.desc":"Vergiftet Spieler bei Kontakt.",
 	"crystalized.sword.wind.name":"Windmesser",
 	"crystalized.sword.wind.desc":"Schleuderfähigkeit: rechtsklick zum Schleudern.",
+	"crystalized.sword.underdog.name":"Unterlegenenschwert",
+	"crystalized.sword.underdog.desc":"Gewinnt pro verlorener Runde an Schärfe.",
 
 	"crystalized.crossbow.multi.name":"Multiarmbrust",
 	"crystalized.crossbow.multi.desc":"Schießt mehrere Pfeile.",
