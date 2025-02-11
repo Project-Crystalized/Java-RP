@@ -44,6 +44,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:item/underdog_sword_4"
 				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/underdog_sword_6"
+				}
 			}
 		],
 		"fallback": {
