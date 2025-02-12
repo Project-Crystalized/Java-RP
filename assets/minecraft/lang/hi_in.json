@@ -33,7 +33,7 @@
 	"crystalized.game.generic.team.purple":"बैंगनी",
 	"crystalized.game.generic.team.red":"लाल",
 	"crystalized.game.generic.team.white":"सफेद",
-	"crystalized.game.generic.team.yellow":"पीला"
+	"crystalized.game.generic.team.yellow":"पीला",
 
 	"crystalized.lobby.chat.welcomemessage1":"क्रिस्टलाइज़्ड में आपका स्वागत है!",
 	"crystalized.lobby.chat.welcomemessage2":"क्रिस्टलाइज़्ड अभी अधूरा है, गलतियों की अपेक्षा करें। यदि आपको कोई समस्या दिखाई दे, तो कृपया डिस्कॉर्ड के माध्यम से क्रिस्टलाइज़्ड के डेवलपर्स को सूचित करें।",
@@ -110,7 +110,7 @@
 	"crystalized.game.litestrike.money.win_round":"जीतने वाले राउंड के लिए",
 	"crystalized.game.litestrike.money.loose_round":"हारने वाले राउंड के लिए",
 	"crystalized.game.litestrike.money.kill":"मारने के लिए",
-	"crystalized.game.litestrike.money.assist":"मारने में सहायता करने के लिए"
+	"crystalized.game.litestrike.money.assist":"मारने में सहायता करने के लिए",
 
 	"crystalized.game.crystalblitz.name":"क्रिस्टल ब्लिट्ज",
 	"crystalized.game.crystalblitz.bluenexus":"नीला Nexus",
@@ -150,7 +150,7 @@
 	"crystalized.item.shardcore3.actionbar":"डिवाइस को अनलॉक करने के लिए",
 	"crystalized.item.weakshard.name":"कमजोर शार्ड",
 	"crystalized.item.stoneshard.name":"मजबूत शार्ड",
-	"crystalized.item.nexusshard.name":"Nexus शार्ड"
+	"crystalized.item.nexusshard.name":"Nexus शार्ड",
 
 	"crystalized.item.defuser.name":"डिफ्यूज़र",
 	"crystalized.item.defuser.desc1":"हारने वाले मत बनो,",
@@ -182,7 +182,7 @@
 	"crystalized.bow.explosive.desc1":"तीर टकराने पर फट जाते हैं।",
 	"crystalized.bow.explosive.desc2":"तीर विस्फोटक सामग्री से भरे हुए हैं।",
 	"crystalized.bow.ricochet.name":"रिकोशे धनुष",
-	"crystalized.bow.ricochet.desc":"तीर कई बार उछलते हैं।"
+	"crystalized.bow.ricochet.desc":"तीर कई बार उछलते हैं।",
 
 	"crystalized.orb.boost.name":"बूस्ट ऑर्ब",
 	"crystalized.orb.boost.desc":"जिस दिशा में भी आप देख रहे हैं, गति को बढ़ाता है और आपको हवा में भी उठा सकता है।",
