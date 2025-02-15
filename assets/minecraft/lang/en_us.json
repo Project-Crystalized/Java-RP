@@ -124,7 +124,7 @@
 	"crystalized.game.crystalblitz.chat.tutorial":"Defend your Nexus, Collect resources and fight other teams. Last person standing wins!",
 	"crystalized.game.crystalblitz.chat.worldborder":"A world border will appear in one minute. Prepare yourself.",
 	"crystalized.game.crystalblitz.chat.nexusbroken1":" has shattered!",
-	"crystalized.game.crystalblitz.chat.nexusbroken2":" was shattered by ",
+	"crystalized.game.crystalblitz.chat.nexusbroken2":"%1$s was shattered by %2$s",
 	"crystalized.game.crystalblitz.chat.nexusattack":"Your Nexus Crystal is under attack!",
 	"crystalized.game.crystalblitz.bossbar.worldborder":"World Border Closes In: ",
 	"crystalized.game.crystalblitz.bossbar.upgrade":"Next Gen. Upgrade: ",
