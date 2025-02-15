@@ -142,6 +142,20 @@
 					"type": "minecraft:model",
 					"model": "crystalized:item/nexus_shard-inactive"
 				}
+			},
+			{
+				"threshold": 21,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/watering_can"
+				}
+			},
+			{
+				"threshold": 22,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/watering_can_filled"
+				}
 			}
 		],
 		"fallback": {
