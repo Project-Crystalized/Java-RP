@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:select",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "crystalized:item/crossbow/charged_crossbow_arrow"
+          },
+          "when": "arrow"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "crystalized:item/crossbow/charged_crossbow_firework"
+          },
+          "when": "rocket"
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "crystalized:item/crossbow/charged_crossbow_standby"
+      },
+      "property": "minecraft:charge_type"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "threshold": 0.58,
+          "model": {
+            "type": "minecraft:model",
+            "model": "crystalized:item/crossbow/charged_crossbow_pulling_1"
+          }
+        },
+        {
+          "threshold": 1,
+          "model": {
+            "type": "minecraft:model",
+            "model": "crystalized:item/crossbow/charged_crossbow_pulling_2"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "crystalized:item/crossbow/charged_crossbow_pulling_0"
+      },
+      "property": "minecraft:crossbow/pull"
+    },
+    "property": "minecraft:using_item"
+  }
+}
