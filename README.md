@@ -73,6 +73,16 @@ The TubNet Team - Some assets<br>
 \uE138 - Knockoff Respawn timer - Alive <br>
 \uE139 - Knockoff Repsawn timer - Eliminated <br>
 
+\uE140 - LS ranked: Dirt <br>
+\uE141 - LS ranked: Stone <br>
+\uE142 - LS ranked: Coal <br>
+\uE143 - LS ranked: Copper <br>
+\uE144 - LS ranked: Iron <br>
+\uE145 - LS ranked: Gold <br>
+\uE146 - LS ranked: Lapis <br>
+\uE147 - LS ranked: Emerald <br>
+\uE148 - LS ranked: Diamond <br>
+\uE149 - LS ranked: Netherite <br>
 
 \uE200 - LiteStrike Bossbar Green Left Piece <br>
 \uE201 - LiteStrike Bossbar Green Right Piece <br>
