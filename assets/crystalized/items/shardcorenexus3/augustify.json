@@ -1,6 +1,26 @@
 {
-	"model":{
-		"type":"minecraft:model",
-		"model":"crystalized:shardcore_nexus/shardcorenexus3_augustify"
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/augustify_open"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/augustify_attention"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "crystalized:custommodel/augustify"
+		}
 	}
 }

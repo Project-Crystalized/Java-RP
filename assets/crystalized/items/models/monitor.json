@@ -1,0 +1,47 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/monitor_blockbench"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/monitor_discord"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/monitor_discord_win11"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/monitor_mcjava"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/monitor_windows11"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "crystalized:custommodel/monitor"
+		}
+	}
+}

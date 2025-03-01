@@ -7,20 +7,13 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:custommodel/abby1_open"
-				}
-			},
-			{
-				"threshold": 2,
-				"model": {
-					"type": "minecraft:model",
-					"model": "crystalized:custommodel/abby1_attention"
+					"model": "crystalized:custommodel/couch_green"
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "crystalized:custommodel/abby1"
+			"model": "crystalized:custommodel/couch"
 		}
 	}
 }

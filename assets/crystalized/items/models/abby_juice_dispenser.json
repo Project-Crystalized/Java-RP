@@ -7,20 +7,20 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:custommodel/bomb/toaster_active"
+					"model": "crystalized:custommodel/abby_juice_dispenser_orange"
 				}
 			},
 			{
 				"threshold": 2,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:custommodel/bomb/toaster_done"
+					"model": "crystalized:custommodel/abby_juice_dispenser_lemon"
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "crystalized:custommodel/bomb/toaster_inactive"
+			"model": "crystalized:custommodel/abby_juice_dispenser"
 		}
 	}
 }
