@@ -147,6 +147,8 @@
 	"crystalized.item.weakshard.name":"Weak Shard",
 	"crystalized.item.stoneshard.name":"Strong Shard",
 	"crystalized.item.nexusshard.name":"Nexus Shard",
+	"crystalized.item.boxingglove.name":"Knockoff Boxing Glove",
+	"crystalized.item.boxingglove.desc":"Punches players further away, Limited amount of uses.",
 
 	"crystalized.item.defuser.name":"Defuser",
 	"crystalized.item.defuser.desc1":"Don't be a loser,",
