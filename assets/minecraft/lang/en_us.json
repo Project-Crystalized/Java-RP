@@ -195,7 +195,7 @@
 	"crystalized.orb.knockout.name":"Knockout Orb",
 	"crystalized.orb.knockout.desc":"Launch a auto-targetting missile to target the nearist player.",
 	"crystalized.orb.poison.name":"Poison Orb",
-	"crystalized.orb.poison.desc":"tba",
+	"crystalized.orb.poison.desc":"Generates a %1$s block radius that poisons enemy teams for %2$s seconds.",
 	"crystalized.orb.winged.name":"Winged Orb",
 	"crystalized.orb.winged.desc":"Launches you to the sky! (Will give you an elytra which will replace your chestplace if applicable)",
 
