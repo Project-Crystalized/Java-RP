@@ -146,6 +146,8 @@
 	"crystalized.item.weakshard.name":"Schwache Scherbe",
 	"crystalized.item.stoneshard.name":"Starke Scherbe",
 	"crystalized.item.nexusshard.name":"Nexus Scherbe",
+	"crystalized.item.boxingglove.name":"Knockoff Boxhandschuh",
+	"crystalized.item.boxingglove.desc":"Schlägt Spieler weiter weg, limitierte Anzahl an Nutzungen.",
 
 	"crystalized.item.defuser.name":"Entschärfer",
 	"crystalized.item.defuser.desc1":"Sei kein Verlierer,",
@@ -192,7 +194,7 @@
 	"crystalized.orb.knockout.name":"Knockout Orb",
 	"crystalized.orb.knockout.desc":"Feuere ein automatisch zielendes Geschoss zu dem nächsten Spieler.",
 	"crystalized.orb.poison.name":"Gift Orb",
-	"crystalized.orb.poison.desc":"tba",
+	"crystalized.orb.poison.desc":"Generiert einen %1$s Block Radius der feindliche Spieler für %2$s Sekunden vergiftet.",
 	"crystalized.orb.winged.name":"Beflügelter Orb",
 	"crystalized.orb.winged.desc":"Katapultiert dich gen Himmel! (Gibt dir eine Elytra, welche wenn möglich deine Brustplatte ersetzt)",
 
