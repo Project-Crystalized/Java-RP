@@ -165,7 +165,7 @@
 	"crystalized.sword.wind.name":"Wind Knife",
 	"crystalized.sword.wind.desc":"Dash ability: Right Click to Dash.",
 	"crystalized.sword.underdog.name":"Underdog Sword",
-	"crystalized.sword.underdog.desc":"Gains Sharpness level per team loss.",
+	"crystalized.sword.underdog.desc":"Gains 0.5 extra damage per team loss.",
 
 	"crystalized.crossbow.multi.name":"Multi Crossbow",
 	"crystalized.crossbow.multi.desc":"Shoots multiple arrows.",
