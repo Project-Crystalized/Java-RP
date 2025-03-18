@@ -62,6 +62,9 @@ The TubNet Team - Some assets<br>
 \uE129 - Orange Icon (an orange temporarily) <br>
 \uE12A - Peach Icon (a peach temporarily) <br>
 \uE12B - Purple Icon (a grape temporarily) <br>
+\uE12C - Heart Icon <br>
+\uE12D - Half Heart Icon <br>
+
 \uE130 - Knockoff Respawn timer 0 <br>
 \uE131 - Knockoff Respawn timer 1 <br>
 \uE132 - Knockoff Respawn timer 2 <br>
