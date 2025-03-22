@@ -7,21 +7,21 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "crystalized:item/bow/angler_bow_pulling_2"
+            "model": "crystalized:item/bow/angled_bow_pulling_2"
           },
           "when": "arrow"
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "crystalized:item/bow/angler_bow_pulling_2"
+            "model": "crystalized:item/bow/angled_bow_pulling_2"
           },
           "when": "rocket"
         }
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "crystalized:item/bow/angler_bow"
+        "model": "crystalized:item/bow/angled_bow"
       },
       "property": "minecraft:charge_type"
     },
@@ -32,20 +32,20 @@
           "threshold": 0.55,
           "model": {
             "type": "minecraft:model",
-            "model": "crystalized:item/bow/angler_bow_pulling_1"
+            "model": "crystalized:item/bow/angled_bow_pulling_1"
           }
         },
         {
           "threshold": 0.8,
           "model": {
             "type": "minecraft:model",
-            "model": "crystalized:item/bow/angler_bow_pulling_2"
+            "model": "crystalized:item/bow/angled_bow_pulling_2"
           }
         }
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "crystalized:item/bow/angler_bow_pulling_0"
+        "model": "crystalized:item/bow/angled_bow_pulling_0"
       },
       "property": "minecraft:crossbow/pull"
     },

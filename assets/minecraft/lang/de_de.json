@@ -180,6 +180,8 @@
 	"crystalized.bow.explosive.desc2":"Verstärkt mit explodierenden Pfeilen.",
 	"crystalized.bow.ricochet.name":"Abprallbogen",
 	"crystalized.bow.ricochet.desc":"Pfeile hüpfen meherere Male.",
+	"crystalized.bow.angled.name":"Geneigter Bogen",
+	"crystalized.bow.angled.desc":"Horizontal gehaltener Bogen welcher extra Schaden macht",
 
 	"crystalized.orb.boost.name":"Boost Orb",
 	"crystalized.orb.boost.desc":"Gibt dir einen Schnelligkeitsboost in die Richtung, in die du schaust, kann dich auch in die Luft katapultieren.",

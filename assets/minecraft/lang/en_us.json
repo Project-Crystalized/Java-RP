@@ -181,6 +181,8 @@
 	"crystalized.bow.explosive.desc2":"Amplified with Explosive Arrows.",
 	"crystalized.bow.ricochet.name":"Ricochet Bow",
 	"crystalized.bow.ricochet.desc":"Arrows bounce multiple times.",
+	"crystalized.bow.angled.name":"Angled Bow",
+	"crystalized.bow.angled.desc":"Horizontal-holding Bow that does extra damage.",
 
 	"crystalized.orb.boost.name":"Boost Orb",
 	"crystalized.orb.boost.desc":"Gives you a speed boost in whatever direction you're looking towards, can also left you up in the air.",
