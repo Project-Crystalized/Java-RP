@@ -64,6 +64,7 @@ The TubNet Team - Some assets<br>
 \uE12B - Purple Icon (a grape temporarily) <br>
 \uE12C - Heart Icon <br>
 \uE12D - Half Heart Icon <br>
+\uE12E - Knockoff Icon <br>
 
 \uE130 - Knockoff Respawn timer 0 <br>
 \uE131 - Knockoff Respawn timer 1 <br>
