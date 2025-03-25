@@ -76,6 +76,8 @@ The TubNet Team - Some assets<br>
 \uE137 - Knockoff Respawn timer 7 <br>
 \uE138 - Knockoff Respawn timer - Alive <br>
 \uE139 - Knockoff Repsawn timer - Eliminated <br>
+\uE13A - Breeze Dagger Dash <br>
+\uE13B - Breeze Dagger Dash (empty) <br>
 
 \uE140 - LS ranked: Dirt <br>
 \uE141 - LS ranked: Stone <br>
