@@ -162,7 +162,8 @@
     "crystalized.sword.slime.desc2": " et ralentit les joueurs.",
     "crystalized.sword.pufferfish.name": " Épée de poisson-globe ",
     "crystalized.sword.pufferfish.desc": " Empoisonne les joueurs au contact.",
-    "crystalized.sword.wind.desc": " Capacité de course : clic droit pour courir.",
+    "crystalized.sword.wind.name":"Dague de brise",
+    "crystalized.sword.wind.desc":"Capacité de sprint: Clic droit pour sprinter. Vous disposez de deux sprints avec un temps de recharge.",
     "crystalized.sword.underdog.name": " Épée de l'outsider ",
     "crystalized.sword.underdog.desc": " Gagne du niveau de netteté à chaque défaited'équipe.",
 
@@ -180,6 +181,8 @@
     "crystalized.bow.explosive.desc2": " Amplifié avec des flèches explosives.",
     "crystalized.bow.ricochet.name": " Arc à ricochet ",
     "crystalized.bow.ricochet.desc": " Les flèches rebondissent plusieurs fois.",
+    "crystalized.bow.angled.name": "Arc coudé",
+    "crystalized.bow.angled.desc": "Arc à maintien horizontal qui inflige des dégâts supplémentaires.",
 
     "crystalized.orb.boost.name": " Orbe de boost ",
     "crystalized.orb.boost.desc": "Vous donne un boost de vitesse dans n'importe quelledirection vers laquelle vous regardez, peut également vous laisser en l'air.",
