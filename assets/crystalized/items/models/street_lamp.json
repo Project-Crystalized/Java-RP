@@ -58,7 +58,28 @@
                     },
                     "property": "minecraft:context_dimension"
                 }
-            }
+            },
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/street_lamp_bent"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/street_lamp_broken_top"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/street_lamp_broken_bottom"
+				}
+			}
         ],
         "fallback": {
             "type": "minecraft:model",
