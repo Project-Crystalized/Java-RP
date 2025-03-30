@@ -9,6 +9,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:custommodel/dumpster_closed"
 				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/dumpster_green"
+				}
 			}
 		],
 		"fallback": {
