@@ -89,20 +89,38 @@ The TubNet Team - Some assets<br>
 \uE147 - LS ranked: Emerald <br>
 \uE148 - LS ranked: Diamond <br>
 \uE149 - LS ranked: Netherite <br>
+\uE14A - Litestrike Bossbar Player Alive (left side)<br>
+\uE14B - Litestrike Bossbar Player Dead (left side)<br>
+\uE14C - Litestrike Bossbar Player Disconnected (left side)<br>
+\uE14D - Litestrike Bossbar Player Alive (right side)<br>
+\uE14E - Litestrike Bossbar Player Dead (right side)<br>
+\uE14F - Litestrike Bossbar Player Disconnected (right side)<br>
 
-\uE200 - LiteStrike Bossbar Green Left Piece <br>
-\uE201 - LiteStrike Bossbar Green Right Piece <br>
-\uE202 - LiteStrike Bossbar Green Blank Tile <br>
-\uE203 - LiteStrike Bossbar Green Player Icon <br>
-\uE204 - LiteStrike Bossbar Green Player Icon (dead) <br>
-\uE205 - LiteStrike Bossbar Green Player Icon (disconnected) <br>
-\uE206 - LiteStrike Bossbar Red Left Piece <br>
-\uE207 - LiteStrike Bossbar Red Right Piece <br>
-\uE208 - LiteStrike Bossbar Red Blank Tile <br>
-\uE209 - LiteStrike Bossbar Red Player Icon <br>
-\uE20A - LiteStrike Bossbar Red Player Icon (dead) <br>
-\uE20B - LiteStrike Bossbar Red Player Icon (disconnected) <br>
+\uE150 - LS Bossbar 5 (left)<br>
+\uE151 - LS Bossbar 4 (left)<br>
+\uE152 - LS Bossbar 3 (left)<br>
+\uE153 - LS Bossbar 2 (left)<br>
+\uE154 - LS Bossbar 1 (left)<br>
+\uE155 - LS Bossbar 0 (left)<br>
+\uE156 - LS Bossbar 0 (right)<br>
+\uE157 - LS Bossbar 1 (right)<br>
+\uE158 - LS Bossbar 2 (right)<br>
+\uE159 - LS Bossbar 3 (right)<br>
+\uE15A - LS Bossbar 4 (right)<br>
+\uE15B - LS Bossbar 5 (right)<br>
 
+\uE200 - old LiteStrike Bossbar Green Left Piece <br>
+\uE201 - old LiteStrike Bossbar Green Right Piece <br>
+\uE202 - old LiteStrike Bossbar Green Blank Tile <br>
+\uE203 - old LiteStrike Bossbar Green Player Icon <br>
+\uE204 - old LiteStrike Bossbar Green Player Icon (dead) <br>
+\uE205 - old LiteStrike Bossbar Green Player Icon (disconnected) <br>
+\uE206 - old LiteStrike Bossbar Red Left Piece <br>
+\uE207 - old LiteStrike Bossbar Red Right Piece <br>
+\uE208 - old LiteStrike Bossbar Red Blank Tile <br>
+\uE209 - old LiteStrike Bossbar Red Player Icon <br>
+\uE20A - old LiteStrike Bossbar Red Player Icon (dead) <br>
+\uE20B - old LiteStrike Bossbar Red Player Icon (disconnected) <br>
 
 \uE300 - Admin Rank  <br>
 \uE301 - Admin Icon <br>
@@ -112,3 +130,5 @@ The TubNet Team - Some assets<br>
 \uE305 - Contributor Icon <br>
 \uE306 - Mod Rank <br>
 \uE307 - Mod Icon <br>
+
+\uE400 - Litestrike Bossbar <br>
