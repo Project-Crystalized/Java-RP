@@ -1,6 +1,6 @@
 {
 	"parent":"crystalized:template_horizontalbow",
 	"textures":{
-		"layer0":"minecraft:item/bow"
+		"0":"crystalized:item/bow/marksman_bow"
 	}
 }

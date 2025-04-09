@@ -1,27 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "crystalized:template_2ditem",
-	"textures": {
-		"0": "item/bow_pulling_2"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [-90, -5, 45],
-			"translation": [-2.75, 0, 1.75],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [-90, -5, -45],
-			"translation": [-2.75, 0, 1.75],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"firstperson_righthand": {
-			"rotation": [-65, -25, 45],
-			"translation": [-4.5, 0, -2]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-65, -25, -45],
-			"translation": [-4.5, 0, -2]
-		}
+	"parent":"crystalized:template_horizontalbow_pull",
+	"textures":{
+		"layer0":"minecraft:item/bow_pulling_2"
 	}
 }
