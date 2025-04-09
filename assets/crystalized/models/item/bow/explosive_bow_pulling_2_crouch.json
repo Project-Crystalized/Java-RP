@@ -1,0 +1,6 @@
+{
+	"parent":"crystalized:template_horizontalbow_pull",
+	"textures":{
+		"0":"crystalized:item/bow/explosive_bow_pulling_2"
+	}
+}

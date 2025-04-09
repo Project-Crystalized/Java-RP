@@ -1,54 +1,90 @@
 {
-  "model": {
-    "type": "minecraft:condition",
-    "on_false": {
-      "type": "minecraft:select",
-      "cases": [
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/bow/ricochet_bow_pulling_2"
-          },
-          "when": "arrow"
+    "model": {
+        "type": "minecraft:condition",
+        "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+                {
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "crystalized:item/bow/ricochet_bow_pulling_2"
+                    },
+                    "when": "arrow"
+                },
+                {
+                    "model": {
+                        "type": "minecraft:model",
+                        "model": "crystalized:item/bow/ricochet_bow_pulling_2"
+                    },
+                    "when": "rocket"
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:condition",
+                "property": "minecraft:keybind_down",
+                "keybind": "key.sneak",
+                "on_true": {
+                    "type": "model",
+                    "model": "crystalized:item/bow/ricochet_bow_crouch"
+                },
+                "on_false": {
+                    "type": "model",
+                    "model": "crystalized:item/bow/ricochet_bow"
+                }
+            },
+            "property": "minecraft:charge_type"
         },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/bow/ricochet_bow_pulling_2"
-          },
-          "when": "rocket"
-        }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "crystalized:item/bow/ricochet_bow"
-      },
-      "property": "minecraft:charge_type"
-    },
-    "on_true": {
-      "type": "minecraft:range_dispatch",
-      "entries": [
-        {
-          "threshold": 0.55,
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/bow/ricochet_bow_pulling_1"
-          }
+        "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+                {
+                    "threshold": 0.55,
+                    "model": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:keybind_down",
+                        "keybind": "key.sneak",
+                        "on_true": {
+                            "type": "model",
+                            "model": "crystalized:item/bow/ricochet_bow_pulling_1_crouch"
+                        },
+                        "on_false": {
+                            "type": "model",
+                            "model": "crystalized:item/bow/ricochet_bow_pulling_1"
+                        }
+                    }
+                },
+                {
+                    "threshold": 0.8,
+                    "model": {
+                        "type": "minecraft:condition",
+                        "property": "minecraft:keybind_down",
+                        "keybind": "key.sneak",
+                        "on_true": {
+                            "type": "model",
+                            "model": "crystalized:item/bow/ricochet_bow_pulling_2_crouch"
+                        },
+                        "on_false": {
+                            "type": "model",
+                            "model": "crystalized:item/bow/ricochet_bow_pulling_2"
+                        }
+                    }
+                }
+            ],
+            "fallback": {
+                "type": "minecraft:condition",
+                "property": "minecraft:keybind_down",
+                "keybind": "key.sneak",
+                "on_true": {
+                    "type": "model",
+                    "model": "crystalized:item/bow/ricochet_bow_pulling_0_crouch"
+                },
+                "on_false": {
+                    "type": "model",
+                    "model": "crystalized:item/bow/ricochet_bow_pulling_0"
+                }
+            },
+            "property": "minecraft:crossbow/pull"
         },
-        {
-          "threshold": 0.8,
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/bow/ricochet_bow_pulling_2"
-          }
-        }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "crystalized:item/bow/ricochet_bow_pulling_0"
-      },
-      "property": "minecraft:crossbow/pull"
-    },
-    "property": "minecraft:using_item"
-  }
+        "property": "minecraft:using_item"
+    }
 }
