@@ -1,0 +1,6 @@
+{
+	"model":{
+		"type":"minecraft:model",
+		"model":"crystalized:item/lobby_games/pawn_white"
+	}
+}
