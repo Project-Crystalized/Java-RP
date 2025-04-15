@@ -1,0 +1,6 @@
+{
+    "parent": "crystalized:custommodel/dumpster",
+    "textures": {
+        "0": "crystalized:item/custommodel/dumpster_green2"
+    }
+}
