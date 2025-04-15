@@ -1,6 +1,6 @@
 {
 	"model":{
 		"type":"minecraft:model",
-		"model":"crystalized:item/lobby_games/knight_black"
+		"model":"crystalized:item/lobby_games/knight_white"
 	}
 }
