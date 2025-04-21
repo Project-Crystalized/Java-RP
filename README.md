@@ -13,8 +13,10 @@ The TubNet Team - Some assets<br>
 \uA001 - LS Shop Gui <br>
 \uA002 - Shardcore Home Menu <br>
 \uA003 - Shardcore Party Request Menu <br>
-\uA004 - ignore this but its reserved <br>
-\uA005 - Shardcore Shop - Main <br>
+\uA004 - Shardcore Shop - Main <br>
+\uA005 - Shardcore Friends app <br>
+\uA006 - Shardcore Games app <br>
+\uA007 - Chess board gui <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
