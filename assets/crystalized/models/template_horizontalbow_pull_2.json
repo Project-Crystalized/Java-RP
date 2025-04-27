@@ -1,0 +1,7 @@
+{
+	"credit":"me myself and i (callum manually written)",
+	"parent":"crystalized:template_horizontalbow_pull",
+	"textures": {
+		"layer0":"item/bow_pulling_2"
+	}
+}

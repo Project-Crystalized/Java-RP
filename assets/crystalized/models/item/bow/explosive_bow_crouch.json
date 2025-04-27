@@ -1,6 +1,6 @@
 {
 	"parent":"crystalized:template_horizontalbow",
 	"textures":{
-		"0":"crystalized:item/bow/explosive_bow"
+		"layer0":"crystalized:item/bow/explosive_bow"
 	}
 }

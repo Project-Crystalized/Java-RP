@@ -1,6 +1,6 @@
 {
 	"parent":"crystalized:template_horizontalbow_pull",
 	"textures":{
-		"0":"crystalized:item/bow/marksman_bow_pulling_0"
+		"layer0":"crystalized:item/bow/marksman_bow_pulling_0"
 	}
 }

@@ -1,26 +1,26 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "crystalized:template_2ditem",
+	"parent": "item/generated",
 	"textures": {
-		"0": "item/bow"
+		"layer0": "item/bow"
 	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 0, 65],
-			"translation": [0, 1.25, 1.75],
-			"scale": [0.9, 0.9, 0.9]
-		},
-		"thirdperson_lefthand": {
 			"rotation": [0, 0, -25],
 			"translation": [0, 1.25, 1.75],
 			"scale": [0.9, 0.9, 0.9]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 65],
+			"translation": [0, 1.25, 1.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
 		"firstperson_righthand": {
-			"rotation": [-65, -25, 45],
+			"rotation": [-65, -25, -45],
 			"translation": [-4.5, 0, -2]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-65, -25, -45],
+			"rotation": [-65, -25, 45],
 			"translation": [-4.5, 0, -2]
 		},
 		"ground": {
