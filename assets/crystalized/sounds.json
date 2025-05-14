@@ -88,5 +88,20 @@
 	"sounds": [
             {"name": "crystalized:effects/nexus_crystal_destroyed", "stream": false}
         ]
+    },
+    "effect.scn3.click": {
+	"sounds": [
+            {"name": "crystalized:effects/scn3/click", "stream": false}
+        ]
+    },
+    "effect.scn3.click_basic": {
+	"sounds": [
+            {"name": "crystalized:effects/scn3/click_basic", "stream": false}
+        ]
+    },
+    "effect.scn3.loading": {
+	"sounds": [
+            {"name": "crystalized:effects/scn3/loading", "stream": false}
+        ]
     }
 }
