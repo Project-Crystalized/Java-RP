@@ -132,5 +132,7 @@ The TubNet Team - Some assets<br>
 \uE305 - Contributor Icon <br>
 \uE306 - Mod Rank <br>
 \uE307 - Mod Icon <br>
+\uE308 - Sub-Project Maker Rank <br>
+\uE309 - Sub-Project Maker Icon <br>
 
 \uE400 - Litestrike Bossbar <br>
