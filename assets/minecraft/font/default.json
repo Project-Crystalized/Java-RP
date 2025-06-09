@@ -9,6 +9,7 @@
 		{"type": "bitmap", "file": "crystalized:gui/shardcorenexus3_games.png", "ascent":48, "height": 256, "chars": ["\uA006"]},
 		{"type": "bitmap", "file": "crystalized:gui/chess_board.png", "ascent":13, "height": 256, "chars": ["\uA007"]},
 		{"type": "bitmap", "file": "crystalized:gui/shardcorenexus3_profile_default.png", "ascent":48, "height": 256, "chars": ["\uA008"]},
+		{"type": "bitmap", "file": "crystalized:gui/shardcorenexus3_settings.png", "ascent":48, "height": 256, "chars": ["\uA009"]},
 		{"type": "bitmap", "file": "crystalized:font/glyph_e1.png", "ascent": 12, "height": 16, "chars": [
 		"\uE100\uE101\uE102\uE103\uE104\uE105\uE106\uE107\uE108\uE109\uE10A\uE10B\uE10C\uE10D\uE10E\uE10F",
 		"\uE110\uE111\uE112\uE113\uE114\uE115\uE116\uE117\uE118\uE119\uE11A\uE11B\uE11C\uE11D\uE11E\uE11F",

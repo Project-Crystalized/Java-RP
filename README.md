@@ -1,11 +1,12 @@
 Crystalized Java Resource Pack!
 
-Version 1.21.1 and above
+Version 1.21.5 ~~and above~~
 
 # Contributers
 TotallyNoCallum - Made Majority of the files here<br>
 MiteDA - Modeling and Texturing<br>
 Abbymcraft - Modeling<br>
+Thejoeybug - Modeling<br>
 The TubNet Team - Some assets<br>
 
 # Unicode List
@@ -17,6 +18,8 @@ The TubNet Team - Some assets<br>
 \uA005 - Shardcore Friends app <br>
 \uA006 - Shardcore Games app <br>
 \uA007 - Chess board gui <br>
+\uA008 - Shardcore Profile app (Default) <br>
+\uA009 - Shardcore Settings app <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
