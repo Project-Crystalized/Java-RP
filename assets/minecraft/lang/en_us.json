@@ -88,6 +88,9 @@
 	"crystalized.shardcore.party.addparty.full":"You can't add %1$s to your party as your party is full.",
 	"crystalized.shardcore.party.removefriend":"Remove friend",
 	"crystalized.shardcore.shop.name":"Shardcore Shop",
+	"crystalized.shardcore.shop.hats":"Hats",
+	"crystalized.shardcore.shop.handheld":"Handheld Items",
+	"crystalized.shardcore.shop.scn3":"Shardcore Nexus designs",
 	"crystalized.shardcore.achivements.name":"Achivements",
 	"crystalized.shardcore.maps.name":"Maps",
 
@@ -156,6 +159,13 @@
 	"crystalized.game.crystalblitz.chat.nexusattack":"Your Nexus Crystal is under attack!",
 	"crystalized.game.crystalblitz.bossbar.worldborder":"World Border Closes In: ",
 	"crystalized.game.crystalblitz.bossbar.upgrade":"Next Gen. Upgrade: ",
+
+	"crystalized.cosmetic.shardcorenexus3/blue":"Blue",
+	"crystalized.cosmetic.shardcorenexus3/gray":"Gray",
+	"crystalized.cosmetic.shardcorenexus3/purple":"Purple",
+	"crystalized.cosmetic.shardcorenexus3/augustify":"Augustify's design",
+	"crystalized.cosmetic.shardcorenexus3/abby1":"Abbymcraft's design",
+	"crystalized.cosmetic.shardcorenexus3/shadow1":"sh4d0w_xd's design",
 
 	"crystalized.item.bomb.name":"S.H.A.R.D.",
 	"crystalized.item.bomb.desc":"This is the bomb.",
