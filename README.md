@@ -20,6 +20,13 @@ The TubNet Team - Some assets<br>
 \uA007 - Chess board gui <br>
 \uA008 - Shardcore Profile app (Default) <br>
 \uA009 - Shardcore Settings app <br>
+\uA00A - Shardcore Shop - Category Selected <br>
+\uA00B - Crystal Blitz Shop - Main <br>
+\uA00C - Crystal Blitz Shop - Defence <br>
+\uA00D - Crystal Blitz Shop - Offense <br>
+\uA00E - Crystal Blitz Shop - Utility <br>
+\uA00F - Shardcore Wardrobe - Main <br>
+\uA010 - Shardcore Wardrobe - Category Selected <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
