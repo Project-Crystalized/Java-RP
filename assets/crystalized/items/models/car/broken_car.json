@@ -1,0 +1,6 @@
+{
+	"model":{
+		"type":"minecraft:model",
+		"model":"crystalized:custommodel/car/broken_car"
+	}
+}
