@@ -1,6 +1,19 @@
 {
-	"model":{
-		"type":"minecraft:model",
-		"model":"crystalized:custommodel/a"
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/a_last_stand"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "crystalized:custommodel/a"
+		}
 	}
 }
