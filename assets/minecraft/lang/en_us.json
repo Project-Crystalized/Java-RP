@@ -103,6 +103,7 @@
 	"crystalized.game.knockoff.powerupmessage":"Powerup!",
 	"crystalized.game.knockoff.chat.powerup":"A powerup has spawned!",
 	"crystalized.game.knockoff.chat.powerup2":"2 powerups have spawned!",
+	"crystalized.game.knockoff.chat.powerupadmin":"An Admin has spawned a powerup!",
 	"crystalized.game.knockoff.chat.movetosafety1":"The map is crumbling, ",
 	"crystalized.game.knockoff.chat.movetosafety2":"Move to Safety!",
 	"crystalized.game.knockoff.chat.hazard":"Hazard incoming: ",
