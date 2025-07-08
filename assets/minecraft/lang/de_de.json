@@ -94,6 +94,7 @@
 	"crystalized.game.knockoff.powerupmessage":"Powerup!",
 	"crystalized.game.knockoff.chat.powerup":"Ein powerup ist erschienen!",
 	"crystalized.game.knockoff.chat.powerup2":"2 powerups sind erschienen!",
+	"crystalized.game.knockoff.chat.powerupadmin":"Ein Admin hat ein PowerUp gespawned!",
 	"crystalized.game.knockoff.chat.movetosafety1":"Das Spielfeld zerfällt, ",
 	"crystalized.game.knockoff.chat.movetosafety2":"Begieb dich in Sicherheit!",
 	"crystalized.game.knockoff.chat.hazard":"Gefahr im Anmarsch: ",
@@ -149,6 +150,22 @@
 	"crystalized.game.crystalblitz.chat.nexusattack":"Dein Nexus wird angegriffen!",
 	"crystalized.game.crystalblitz.bossbar.worldborder":"Die Weltengrenze wird kleiner: ",
 	"crystalized.game.crystalblitz.bossbar.upgrade":"Nächstes Gen. Upgrade: ",
+
+	"crystalized.cosmetic.shardcorenexus3/blue":"Blau",
+	"crystalized.cosmetic.shardcorenexus3/gray":"Grau",
+	"crystalized.cosmetic.shardcorenexus3/purple":"Lila",
+	"crystalized.cosmetic.shardcorenexus3/augustify":"Augustify's design",
+	"crystalized.cosmetic.shardcorenexus3/abby1":"Abbymcraft's design",
+	"crystalized.cosmetic.shardcorenexus3/shadow1":"sh4d0w_xd's design",
+
+	"crystalized.cosmetic/head/beanie":"Beanie",
+	"crystalized.cosmetic/head/crown":"Krone",
+	"crystalized.cosmetic/head/fox_beret":"Fuchs Baskenmütze",
+	"crystalized.cosmetic/head/headphones":"Kopfhörer",
+	"crystalized.cosmetic/head/merica":"Cowboy Hut",
+
+	"crystalized.cosmetic/handheld/handbag":"Handtasche",
+	"crystalized.cosmetic/handheld/merica_flag":"Amerikanische Flagge",
 
 	"crystalized.item.bomb.name":"S.H.A.R.D.",
 	"crystalized.item.bomb.desc":"Dies ist die Bombe.",

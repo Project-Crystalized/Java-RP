@@ -94,6 +94,7 @@
     "crystalized.game.knockoff.powerupmessage": "Bonus!",
     "crystalized.game.knockoff.chat.powerup": " Un bonus est apparu!",
     "crystalized.game.knockoff.chat.powerup2": " 2 bonuses sont apparus!",
+    "crystalized.game.knockoff.chat.powerupadmin":"Un administrateur a généré un power-up !",
     "crystalized.game.knockoff.chat.movetosafety1": "Le plan s’effrondre, ",
     "crystalized.game.knockoff.chat.movetosafety2": " Mettez-vous en sécurité!",
     "crystalized.game.knockoff.chat.hazard": "Danger Entrant: ",
@@ -150,6 +151,22 @@
     "crystalized.game.crystalblitz.chat.nexusattack": " Votre cristal Nexus est attaqué!",
     "crystalized.game.crystalblitz.bossbar.worldborder": " La frontière mondiale se referme: ",
     "crystalized.game.crystalblitz.bossbar.upgrade": " Prochaine mise à niveau. gen: ",
+
+    "crystalized.cosmetic.shardcorenexus3/blue":"Bleu",
+    "crystalized.cosmetic.shardcorenexus3/gray":"Gris",
+    "crystalized.cosmetic.shardcorenexus3/purple":"Violet",
+    "crystalized.cosmetic.shardcorenexus3/augustify":" Conception d’Augustify  ",
+    "crystalized.cosmetic.shardcorenexus3/abby1":"Conception d’Abbymcraft ",
+    "crystalized.cosmetic.shardcorenexus3/shadow1":"Conception de sh4d0w_xd ",
+
+    "crystalized.cosmetic/head/beanie":"Bonnet",
+    "crystalized.cosmetic/head/crown":"Couronne",
+    "crystalized.cosmetic/head/fox_beret":"Béret de renard",
+    "crystalized.cosmetic/head/headphones":"Écouteurs",
+    "crystalized.cosmetic/head/merica":"Chapeau de Cowboy",
+
+    "crystalized.cosmetic/handheld/handbag":"Sac à Main",
+    "crystalized.cosmetic/handheld/merica_flag":"Drapeau Américain", 
 
     "crystalized.item.bomb.name": "S.H.A.R.D.",
     "crystalized.item.bomb.desc": " C'est la bombe.",
