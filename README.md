@@ -134,6 +134,18 @@ The TubNet Team - Some assets<br>
 \uE20A - old LiteStrike Bossbar Red Player Icon (dead) <br>
 \uE20B - old LiteStrike Bossbar Red Player Icon (disconnected) <br>
 
+\uE210 - Knockoff 0 <br>
+\uE211 - Knockoff 1 <br>
+\uE212 - Knockoff 2 <br>
+\uE213 - Knockoff 3 <br>
+\uE214 - Knockoff 4 <br>
+\uE215 - Knockoff 5 <br>
+\uE216 - Knockoff 6 <br>
+\uE217 - Knockoff 7 <br>
+\uE218 - Knockoff 8 <br>
+\uE219 - Knockoff 9 <br>
+\uE21A - Knockoff % <br>
+
 \uE300 - Admin Rank  <br>
 \uE301 - Admin Icon <br>
 \uE302 - Developer Rank <br>
