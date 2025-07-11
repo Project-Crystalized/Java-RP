@@ -95,6 +95,7 @@
 	"crystalized.game.knockoff.powerupmessage":"शक्तिप्रापक!",
 	"crystalized.game.knockoff.chat.powerup":"एक पावर अप आ चुका है!",
 	"crystalized.game.knockoff.chat.powerup2":"दो पावर अप आ चुके हैं!",
+	"crystalized.game.knockoff.chat.powerupadmin": "एक एडमिन ने एक पावरअप पैदा किया है!",
 	"crystalized.game.knockoff.chat.movetosafety1":"जमीन धंस रही है,",
 	"crystalized.game.knockoff.chat.movetosafety2":"किसी सुरक्षित स्थान पर जाएं।",
 	"crystalized.game.knockoff.chat.hazard":"खतरा आने वाला है",
@@ -150,6 +151,22 @@
 	"crystalized.game.crystalblitz.chat.nexusattack":"आपका Nexus Crystal हमले की चपेट में है!",
 	"crystalized.game.crystalblitz.bossbar.worldborder":"वर्ल्ड बॉर्डर सिमट रहा है:",
 	"crystalized.game.crystalblitz.bossbar.upgrade":"अगला जनरल अपग्रेड:",
+
+	"crystalized.cosmetic.shardcorenexus3/blue": "नीला",
+	"crystalized.cosmetic.shardcorenexus3/gray": "धूसर",
+	"crystalized.cosmetic.shardcorenexus3/purple": "बैंगनी",
+	"crystalized.cosmetic.shardcorenexus3/augustify": "Augustify's डिज़ाइन",
+	"crystalized.cosmetic.shardcorenexus3/abby1": "Abbymcraft's डिज़ाइन",
+	"crystalized.cosmetic.shardcorenexus3/shadow1": "sh4d0w_xd's डिज़ाइन",
+
+	"crystalized.cosmetic/head/beanie": "बीनी ",
+	"crystalized.cosmetic/head/crown": "ताज",
+	"crystalized.cosmetic/head/fox_beret": "लोमड़ी बेरेट",
+	"crystalized.cosmetic/head/headphones": "हेडफ़ोन",
+	"crystalized.cosmetic/head/merica": "काउबॉय हैट",
+
+	"crystalized.cosmetic/handheld/handbag": "हाथ में रखने वाला बैग",
+	"crystalized.cosmetic/handheld/merica_flag": "अमेरिकी झंडा",
 
 	"crystalized.item.bomb.name":"बम",
 	"crystalized.item.bomb.desc":"यह एक बम है।",
