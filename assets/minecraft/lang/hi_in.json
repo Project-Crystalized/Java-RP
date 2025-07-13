@@ -102,7 +102,7 @@
 	"crystalized.game.knockoff.chat.deathknockoff":"द्वारा गिरा दिया गया था",
 	"crystalized.game.knockoff.chat.deathgeneric":" मर गया है।",
 	"crystalized.game.knockoff.chat.eliminated":"खेल से बाहर कर दिया गया है।",
-	"crystalized.game.knockoff.chat.pickedup":"उठा लिया है",
+	"crystalized.game.knockoff.chat.pickedup":"%1$s उठा लिया है",
 	"crystalized.game.knockoff.win":"खेल जीत गए!",
 	"crystalized.game.knockoff.queue.playing":"आप खेल रहे हैं",
 	"crystalized.game.knockoff.queue.waiting":"खिलाड़ियों का इंतजार:",

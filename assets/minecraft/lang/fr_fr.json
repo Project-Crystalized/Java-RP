@@ -101,7 +101,7 @@
     "crystalized.game.knockoff.chat.deathknockoff": " a été renversé(é) par ",
     "crystalized.game.knockoff.chat.deathgeneric": " est mort(e).",
     "crystalized.game.knockoff.chat.eliminated": " a été éliminé(é) du jeu ",
-    "crystalized.game.knockoff.chat.pickedup": " a ramassé ",
+    "crystalized.game.knockoff.chat.pickedup": "%1$s a ramassé ",
     "crystalized.game.knockoff.win": " gagne le jeu!",
     "crystalized.game.knockoff.queue.playing": "Vous Jouez sur: ",
     "crystalized.game.knockoff.queue.waiting": " En attente des joueurs: ",
