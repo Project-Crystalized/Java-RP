@@ -68,7 +68,7 @@
 	"crystalized.shardcore.profile.addfriend.yourself": "आप खुद को मित्र नहीं बना सकते",
 	"crystalized.shardcore.profile.return": "मुख्य मेनू पर वापस जाएं।",
 	"crystalized.shardcore.profile.xp": "%1$s का XP (स्तर %2$s)",
-	"crystalized.shardcore.profile.xp": "अगला इनाम: %1$s (%2$s XP आवश्यक)",
+	"crystalized.shardcore.profile.xp2": "अगला इनाम: %1$s (%2$s XP आवश्यक)",
 	"crystalized.shardcore.profile.info": "खिलाड़ी की जानकारी", 
 	"crystalized.shardcore.profile.info.cycle": "खेलों के बीच बदलने के लिए %1$s दबाएं।",
 	"crystalized.shardcore.profile.info.ls": "लाइटस्ट्राइक आँकड़े",

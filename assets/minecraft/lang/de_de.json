@@ -67,7 +67,7 @@
 	"crystalized.shardcore.profile.addfriend.yourself":"Du kannst dich nicht selbst als Freund hinzufügen",
 	"crystalized.shardcore.profile.return":"Zurück zum Hauptmenü.",
 	"crystalized.shardcore.profile.xp":"%1$s's XP (Lvl %2$s)",
-	"crystalized.shardcore.profile.xp":"Nächste Belohnung: %1$s (%2$s XP benötigt)",
+	"crystalized.shardcore.profile.xp2":"Nächste Belohnung: %1$s (%2$s XP benötigt)",
 	"crystalized.shardcore.profile.info":"Spieler Info",
 	"crystalized.shardcore.profile.info.cycle":"Drücke %1$s um durch Spiele zu scrollen.",
 	"crystalized.shardcore.profile.info.ls":"Litestrike Statistik",
