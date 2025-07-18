@@ -7,6 +7,7 @@ TotallyNoCallum - Made Majority of the files here<br>
 MiteDA - Modeling and Texturing<br>
 Abbymcraft - Modeling<br>
 Thejoeybug - Modeling<br>
+minidrwho - Texturing <br>
 The TubNet Team - Some assets<br>
 
 # Unicode List
