@@ -103,5 +103,15 @@
 	"sounds": [
             {"name": "crystalized:effects/scn3/loading", "stream": false}
         ]
+    },
+    "effect.ambient.car_horn": {
+	"sounds": [
+            {"name": "crystalized:effects/ambient/car_horn", "stream": false}
+        ]
+    },
+    "effect.ambient.train_horn": {
+	"sounds": [
+            {"name": "crystalized:effects/ambient/train_horn", "stream": false}
+        ]
     }
 }
