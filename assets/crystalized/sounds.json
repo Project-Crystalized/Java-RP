@@ -4,6 +4,11 @@
             {"name": "crystalized:effects/ally_kill", "stream": false}
         ]
     },
+    "effect.enemy_kill": {
+	"sounds": [
+            {"name": "crystalized:effects/enemy_kill", "stream": false}
+        ]
+    },
     "effect.hazard_positive": {
 	"sounds": [
             {"name": "crystalized:effects/hazard_positive", "stream": false}
@@ -71,7 +76,7 @@
     },
     "effect.star_plant": {
 	"sounds": [
-            {"name": "crystalized:effects/star_plant", "stream": false}
+            {"name": "crystalized:effects/shard/star_plant", "stream": false}
         ]
     },
     "effect.ls_game_won": {
@@ -109,9 +114,39 @@
             {"name": "crystalized:effects/ambient/car_horn", "stream": false}
         ]
     },
+    "effect.ambient.car_horn_tubnet": {
+	"sounds": [
+            {"name": "crystalized:effects/ambient/car_horn_tubnet", "stream": false}
+        ]
+    },
     "effect.ambient.train_horn": {
 	"sounds": [
             {"name": "crystalized:effects/ambient/train_horn", "stream": false}
+        ]
+    },
+    "effect.shard.beep_1": {
+	"sounds": [
+            {"name": "crystalized:effects/shard/star_beep-1", "stream": false}
+        ]
+    },
+    "effect.shard.beep_2": {
+	"sounds": [
+            {"name": "crystalized:effects/shard/star_beep-2", "stream": false}
+        ]
+    },
+    "effect.shard.beep_3": {
+	"sounds": [
+            {"name": "crystalized:effects/shard/star_beep-3", "stream": false}
+        ]
+    },
+    "effect.shard.deactivation": {
+	"sounds": [
+            {"name": "crystalized:effects/shard/star-deactivation", "stream": false}
+        ]
+    },
+    "effect.shard.detonation": {
+	"sounds": [
+            {"name": "crystalized:effects/shard/star-detonation", "stream": false}
         ]
     }
 }
