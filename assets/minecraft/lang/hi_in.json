@@ -50,13 +50,6 @@
 	"crystalized.lobby.knockoff.desc3":"आप धकेले जाएंगे। खेल के समय के साथ, नक्शा टूटना शुरू हो जाएगा (टूटने के बाद एक नया प्लेटफॉर्म बन जाएगा)।",
 	"crystalized.lobby.knockoff.desc4":"स्पॉनिंग सेक्शन्स, पावर-अप्स और अनलिमिटेड ब्लॉक्स उपलब्ध हैं।",
 	"crystalized.lobby.knockoff.credits":"मूल रूप से (TubNet's Knockout) पर आधारित, इसे फिर से बनाया गया है और अब ओपन-सोर्स है!",
-	"crystalized.lobby.queue.queuing": "आप वर्तमान में इसके लिए कतार में हैं",
-	"crystalized.lobby.queue.players":"खिलाड़ी कतार में हैं",
-	"crystalized.lobby.queue.tp":"आपको अंदर टेलीपोर्ट किया जाएगा",
-	"crystalized.lobby.queue.cancelled.inbalance":"कतार रद्द कर दी गई! असंतुलित टीमें",
-	"crystalized.lobby.queue.cancelled.playerleft":"कतार रद्द कर दी गई! एक खिलाड़ी ने कतार छोड़ दी है।",
-	"crystalized.lobby.queue.starting":"खेल शुरू करने के लिए पर्याप्त खिलाड़ी मौजूद हैं! आपको जल्द ही टेलीपोर्ट किया जाएगा।",
-	"crystalized.lobby.queue.full":"कतार में जगह नहीं है!",
 
 	"crystalized.shardcore.generic.scrollright": "दाएं स्क्रॉल करें",
 	"crystalized.shardcore.generic.scrollleft": "बाएं स्क्रॉल करें",

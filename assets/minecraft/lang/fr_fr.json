@@ -49,13 +49,6 @@
     "crystalized.lobby.knockoff.dsec3": " recul que vous subissez. Pendant le jeu, la cartes'effondrera avec de nouveaux ",
     "crystalized.lobby.knockoff.desc4": " Les sections d'apparition, les bonus et les blocs infinissont disponibles ",
     "crystalized.lobby.knockoff.credits": " Basé à l'origine sur \"Knockout\", de Tubnetmaintenant refait et open-source!",
-    "crystalized.lobby.queue.queuing": " Vous êtes actuellement en file d'attente pour :",
-    "crystalized.lobby.queue.players": " Joueurs en file d'attente: ",
-    "crystalized.lobby.queue.tp": " Vous serez téléporté dans: ",
-    "crystalized.lobby.queue.cancelled.inbalance": " File d'attente annulée ! Équipes inégales.",
-    "crystalized.lobby.queue.cancelled.playerleft": " File d'attente annulée ! Un joueur a quittéla file d'attente.",
-    "crystalized.lobby.queue.starting": " Il y a suffisamment de joueurs pour commencer la jeu !Vous serez bientôt téléporté.",
-    "crystalized.lobby.queue.full": " La file d'attente est pleine!",
 
     "crystalized.shardcore.generic.scrollright":" Défilez vers la droite",
     "crystalized.shardcore.generic.scrollleft":" Défilez vers la gauche",

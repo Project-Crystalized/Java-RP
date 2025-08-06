@@ -43,13 +43,6 @@
 	"crystalized.lobby.knockoff.dsec3":"a repulsão aplicada. Durante o jogo, o mapa irá se desfazer em novas",
 	"crystalized.lobby.knockoff.desc4":"seções, Powerups e blocos infinitos estarão disponíveis.",
 	"crystalized.lobby.knockoff.credits":"Inspirado originalmente em TubNet \"Knockout\", refeito e agora open-source!",
-	"crystalized.lobby.queue.queuing":"Você está na fila para: ",
-	"crystalized.lobby.queue.players":"Jogadores na fila: ",
-	"crystalized.lobby.queue.tp":"Você será teleportado em: ",
-	"crystalized.lobby.queue.cancelled.inbalance":"Fila cancelada! Times fora de balanço.",
-	"crystalized.lobby.queue.cancelled.playerleft":"Fila cancelada! Um jogador saiu da fila.",
-	"crystalized.lobby.queue.starting":"THá jogadores suficientes para iniciar o jogo! Você será teleportado em breve.",
-	"crystalized.lobby.queue.full":"A fila está cheia!",
 
 	"crystalized.shardcore.app.settings.name":"Configurações",
 	"crystalized.shardcore.app.profile.name":"Perfil",

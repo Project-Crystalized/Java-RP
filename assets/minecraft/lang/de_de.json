@@ -49,13 +49,6 @@
 	"crystalized.lobby.knockoff.dsec3":"Rückschlag erhälst du, während des Spiels wird das Spielfeld zerfallen und neue",
 	"crystalized.lobby.knockoff.desc4":"Teile werden spawnen, Powerups und unendliche Blöcke sind verfügbar",
 	"crystalized.lobby.knockoff.credits":"Ursprünglich basiert auf TubNet's \"Knockout\", nun nachgemacht und open-source!",
-	"crystalized.lobby.queue.queuing":"Du befindest dich in der Warteschlage für: ",
-	"crystalized.lobby.queue.players":"Spiele in der Schlage: ",
-	"crystalized.lobby.queue.tp":"Du wirst teleportiert in: ",
-	"crystalized.lobby.queue.cancelled.inbalance":"Warteschlage abgesagt! Ungleiche teams.",
-	"crystalized.lobby.queue.cancelled.playerleft":"Warteschlage abgesagt! Ein Spieler hat die Schlange verlassen.",
-	"crystalized.lobby.queue.starting":"Es gibt genug Spieler um ein Spiel zu starten! Du wirst bald teleportiert.",
-	"crystalized.lobby.queue.full":"Die Warteschlage ist voll!",
 
 	"crystalized.shardcore.generic.scrollright":"Scrolle nach rechts",
 	"crystalized.shardcore.generic.scrollleft":"Scrolle nach links",
