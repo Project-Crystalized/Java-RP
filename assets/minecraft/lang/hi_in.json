@@ -65,7 +65,7 @@
 	"crystalized.shardcore.profile.info": "खिलाड़ी की जानकारी", 
 	"crystalized.shardcore.profile.info.cycle": "खेलों के बीच बदलने के लिए %1$s दबाएं।",
 	"crystalized.shardcore.profile.info.ls": "लाइटस्ट्राइक आँकड़े",
-	"crystalized.shardcore.profile.info.cb": "क्रिस्टल ब्लिट्ज आँकड़े"
+	"crystalized.shardcore.profile.info.cb": "क्रिस्टल ब्लिट्ज आँकड़े",
 	"crystalized.shardcore.profile.info.ko": "नॉकऑफ़ आँकड़े",
 	"crystalized.shardcore.profile.info.br": "बैटल रॉयल आँकड़े",
 	"crystalized.shardcore.profile.info.b": "बोटानिका आँकड़े",
@@ -77,7 +77,7 @@
 	"crystalized.shardcore.party.removefriend": "मित्र हटाएं",
 	"crystalized.shardcore.shop.name": "शार्डकोर दुकान",
 	"crystalized.shardcore.achivements.name": "उपलब्धियाँ",
-	"crystalized.shardcore.maps.name": "नक्शे"
+	"crystalized.shardcore.maps.name": "नक्शे",
 
 	"crystalized.game.knockoff.name":"गिरा दिए गए",
 	"crystalized.game.knockoff.round":"गोल",
