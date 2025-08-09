@@ -5,7 +5,7 @@
     "crystalized.generic.no": "Non",
     "crystalized.generic.accept": "Accepter",
     "crystalized.generic.deny": "Refuser",
-    "crystalized.generic.queue.actionbar":"You are currently in the queue for %1$s. (%2$s/%3$s) Tapez /unqueue pour quitter la file d’attente.",
+    "crystalized.generic.queue.actionbar":"Vous êtes actuellement dans la file d'attente depuis %1$s. (%2$s/%3$s) Tapez /unqueue pour quitter la file d'attente.",
 
     "crystalized.game.generic.solo": "Solo",
     "crystalized.game.generic.teamed": "Équipé",
