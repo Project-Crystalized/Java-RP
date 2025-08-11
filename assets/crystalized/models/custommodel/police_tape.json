@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "crystalized:item/custommodel/police_tape",
+		"particle": "crystalized:item/custommodel/police_tape"
+	},
+	"elements": [
+		{
+			"from": [-16, 5, 8],
+			"to": [16, 17, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [30, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#0"},
+				"up": {"uv": [11, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [11, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -17.7, 0],
+			"scale": [3.2, 3.2, 3.2]
+		}
+	},
+	"groups": [
+		{
+			"name": "model",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
