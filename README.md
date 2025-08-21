@@ -1,6 +1,6 @@
 Crystalized Java Resource Pack!
 
-Version 1.21.5 ~~and above~~
+For version 1.21.7/.8
 
 # Contributers
 TotallyNoCallum - Made Majority of the files here<br>
@@ -79,6 +79,7 @@ The TubNet Team - Some assets<br>
 \uE12C - Heart Icon <br>
 \uE12D - Half Heart Icon <br>
 \uE12E - Knockoff Icon <br>
+\uE12F - Crystal Blitz Icon <br>
 
 \uE130 - Knockoff Respawn timer 0 <br>
 \uE131 - Knockoff Respawn timer 1 <br>
