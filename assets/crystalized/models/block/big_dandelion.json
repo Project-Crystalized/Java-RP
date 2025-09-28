@@ -1,0 +1,7 @@
+{
+  "parent": "crystalized:template_double_flower",
+  "textures": {
+    "0": "crystalized:block/big_dandelion",
+    "particle": "crystalized:block/big_dandelion"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "age=1": {
+      "model": "crystalized:block/big_dandelion"
+    }
+  }
+}
