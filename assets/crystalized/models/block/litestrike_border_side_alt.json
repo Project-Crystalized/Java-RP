@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_bars_side_alt",
+  "textures": {
+    "bars": "crystalized:block/litestrike_border",
+    "edge": "crystalized:block/invisible"
+  }
+}
