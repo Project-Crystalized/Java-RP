@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "crystalized:block/blue_pipe_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "crystalized:block/blue_pipe"
+    },
+    "axis=z": {
+      "model": "crystalized:block/blue_pipe_horizontal",
+      "x": 90
+    }
+  }
+}
