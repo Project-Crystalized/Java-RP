@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crystalized:block/white_tiles_slab_bottom"
+    },
+    "type=double": {
+      "model": "crystalized:block/white_tiles"
+    },
+    "type=top": {
+      "model": "crystalized:block/white_tiles_slab_top"
+    }
+  }
+}

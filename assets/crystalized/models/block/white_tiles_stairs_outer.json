@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "crystalized:block/white_tiles",
+    "side": "crystalized:block/white_tiles",
+    "top": "crystalized:block/white_tiles"
+  }
+}
