@@ -9,6 +9,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:custommodel/bomb/shard_break"
 				}
+			},
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:custommodel/bomb/shard_closed"
+				}
 			}
 		],
 		"fallback": {
