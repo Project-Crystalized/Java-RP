@@ -38,6 +38,26 @@
       "model": "crystalized:block/oak_side_slab",
       "uvlock": true,
       "y": 270
+    },
+
+    "facing=south,powered=false,side_chain=left,waterlogged=false": {
+      "model": "crystalized:block/amethyst_side_slab",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=north,powered=false,side_chain=left,waterlogged=false": {
+      "model": "crystalized:block/amethyst_side_slab",
+      "uvlock": true
+    },
+    "facing=east,powered=false,side_chain=left,waterlogged=false": {
+      "model": "crystalized:block/amethyst_side_slab",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=west,powered=false,side_chain=left,waterlogged=false": {
+      "model": "crystalized:block/amethyst_side_slab",
+      "uvlock": true,
+      "y": 270
     }
   }
 }
