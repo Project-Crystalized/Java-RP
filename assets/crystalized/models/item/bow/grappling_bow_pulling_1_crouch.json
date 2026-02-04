@@ -1,0 +1,6 @@
+{
+	"parent":"crystalized:template_horizontalbow_pull",
+	"textures":{
+		"layer0":"crystalized:item/bow/grappling_bow_pulling_1"
+	}
+}
