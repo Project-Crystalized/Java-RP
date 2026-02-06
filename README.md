@@ -29,6 +29,7 @@ The TubNet Team - Some assets<br>
 \uA00F - Shardcore Wardrobe - Main <br>
 \uA010 - Shardcore Wardrobe - Category Selected <br>
 \uA011 - Shardcore Achivements - Category Selected <br>
+\uA012 - Shardcore Profile Stats <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
