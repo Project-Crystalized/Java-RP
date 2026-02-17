@@ -1,0 +1,6 @@
+{
+	"model":{
+		"type":"minecraft:model",
+		"model":"crystalized:block/dirt_slab_bottom"
+	}
+}
