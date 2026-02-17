@@ -1,41 +1,41 @@
 {
   "variants": {
     "facing=south,powered=false,side_chain=center,waterlogged=false": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true,
       "y": 180
     },
     "facing=north,powered=false,side_chain=center,waterlogged=false": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true
     },
     "facing=east,powered=false,side_chain=center,waterlogged=false": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true,
       "y": 90
     },
     "facing=west,powered=false,side_chain=center,waterlogged=false": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true,
       "y": 270
     },
 
     "facing=south,powered=false,side_chain=center,waterlogged=true": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true,
       "y": 180
     },
     "facing=north,powered=false,side_chain=center,waterlogged=true": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true
     },
     "facing=east,powered=false,side_chain=center,waterlogged=true": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true,
       "y": 90
     },
     "facing=west,powered=false,side_chain=center,waterlogged=true": {
-      "model": "crystalized:block/mangrove_side_slab",
+      "model": "crystalized:block/side_slabs/mangrove_side_slab",
       "uvlock": true,
       "y": 270
     }
