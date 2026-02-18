@@ -1,6 +1,19 @@
 {
-	"model":{
-		"type":"minecraft:model",
-		"model":"crystalized:block/nexus_orange"
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "minecraft:block/frosted_ice_0"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "crystalized:block/nexus_orange"
+		}
 	}
 }
