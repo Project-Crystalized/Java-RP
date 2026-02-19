@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,power=15,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/obsidian_slab"
+    },
+    "facing=east,power=15,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/soul_sand_slab"
+    },
+    "facing=south,power=15,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/dirt_path_slab"
+    }
+  }
+}
