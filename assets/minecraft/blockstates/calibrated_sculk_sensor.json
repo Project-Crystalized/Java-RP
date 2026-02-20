@@ -8,6 +8,19 @@
     },
     "facing=south,power=15,sculk_sensor_phase=cooldown": {
       "model": "crystalized:block/c_sculk_sensors/dirt_path_slab"
+    },
+    "facing=west,power=15,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/podzol_slab"
+    },
+
+    "facing=north,power=14,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/soul_soil_slab"
+    },
+    "facing=east,power=14,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/packed_ice_slab"
+    },
+    "facing=south,power=14,sculk_sensor_phase=cooldown": {
+      "model": "crystalized:block/c_sculk_sensors/blue_ice_slab"
     }
   }
 }

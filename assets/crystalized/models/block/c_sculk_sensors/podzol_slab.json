@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "side": "crystalized:block/c_sculk_sensors/podzol_slab",
+    "top": "minecraft:block/podzol_top"
+  }
+}
