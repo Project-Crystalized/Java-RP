@@ -189,6 +189,7 @@
 	"crystalized.game.litestrike.communicator.lets_go_a":"Lets Go A!",
 	"crystalized.game.litestrike.communicator.lets_go_b":"Lets Go B!",
 	"crystalized.game.litestrike.communicator.follow_me":"Follow me!",
+	"crystalized.game.litestrike.communicator.go_here":"Go here!",
 	"crystalized.game.litestrike.communicator.help_me":"Help me!",
 	"crystalized.game.litestrike.communicator.enemy_spotted":"Enemy spotted!",
 	"crystalized.game.litestrike.communicator.wait_here":"Wait here!",
@@ -198,7 +199,7 @@
 	"crystalized.game.litestrike.communicator.drop_please":"Drop please UwU!",
 	"crystalized.game.litestrike.communicator.get_carried":"Get carried!",
 	"crystalized.game.litestrike.communicator.cooked":"I might be cooked...",
-	"crystalized.game.litestrike.communicator.meow":"Meow.",
+	"crystalized.game.litestrike.communicator.meow":"Meow. (drop pls)",
 
 	"crystalized.game.crystalblitz.name":"Crystal Blitz",
 	"crystalized.game.crystalblitz.bluenexus":"Blue Nexus",
