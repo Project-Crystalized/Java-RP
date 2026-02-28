@@ -11,7 +11,7 @@
 				}
 			},
 			{
-				"threshold": 1,
+				"threshold": 2,
 				"model": {
 					"type": "minecraft:model",
 					"model": "crystalized:custommodel/bomb/shard_closed"
