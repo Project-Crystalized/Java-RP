@@ -1,54 +1,86 @@
 {
-  "model": {
-    "type": "minecraft:condition",
-    "on_false": {
-      "type": "minecraft:select",
-      "cases": [
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/crossbow/multishot/crossbow_arrow"
-          },
-          "when": "arrow"
-        },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/crossbow/multishot/crossbow_firework"
-          },
-          "when": "rocket"
-        }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "crystalized:item/crossbow/multishot/crossbow_standby"
-      },
-      "property": "minecraft:charge_type"
-    },
-    "on_true": {
-      "type": "minecraft:range_dispatch",
-      "entries": [
-        {
-          "threshold": 0.58,
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/crossbow/multishot/crossbow_pulling_1"
-          }
-        },
-        {
-          "threshold": 1,
-          "model": {
-            "type": "minecraft:model",
-            "model": "crystalized:item/crossbow/multishot/crossbow_pulling_2"
-          }
-        }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "crystalized:item/crossbow/multishot/crossbow_pulling_0"
-      },
-      "property": "minecraft:crossbow/pull"
-    },
-    "property": "minecraft:using_item"
-  }
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_arrow_spectral"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_arrow_explosive"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_arrow_dragon"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_arrow_wind"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"on_false": {
+				"type": "minecraft:select",
+				"cases": [{
+						"model": {
+							"type": "minecraft:model",
+							"model": "crystalized:item/crossbow/multishot/crossbow_arrow"
+						},
+						"when": "arrow"
+					},
+					{
+						"model": {
+							"type": "minecraft:model",
+							"model": "crystalized:item/crossbow/multishot/crossbow_firework"
+						},
+						"when": "rocket"
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_standby"
+				},
+				"property": "minecraft:charge_type"
+			},
+			"on_true": {
+				"type": "minecraft:range_dispatch",
+				"entries": [{
+						"threshold": 0.58,
+						"model": {
+							"type": "minecraft:model",
+							"model": "crystalized:item/crossbow/multishot/crossbow_pulling_1"
+						}
+					},
+					{
+						"threshold": 1,
+						"model": {
+							"type": "minecraft:model",
+							"model": "crystalized:item/crossbow/multishot/crossbow_pulling_2"
+						}
+					}
+				],
+				"fallback": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_pulling_0"
+				},
+				"property": "minecraft:crossbow/pull"
+			},
+			"property": "minecraft:using_item"
+		}
+	}
 }

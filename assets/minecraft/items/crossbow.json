@@ -7,28 +7,28 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/crossbow/quick_charge/crossbow_arrow_spectral"
+					"model": "crystalized:item/crossbow/vanilla/crossbow_arrow_spectral"
 				}
 			},
 			{
 				"threshold": 2,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/crossbow/quick_charge/crossbow_arrow_explosive"
+					"model": "crystalized:item/crossbow/vanilla/crossbow_arrow_explosive"
 				}
 			},
 			{
 				"threshold": 3,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/crossbow/quick_charge/crossbow_arrow_dragon"
+					"model": "crystalized:item/crossbow/vanilla/crossbow_arrow_dragon"
 				}
 			},
 			{
 				"threshold": 4,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/crossbow/quick_charge/crossbow_arrow_wind"
+					"model": "crystalized:item/crossbow/vanilla/crossbow_arrow_wind"
 				}
 			}
 		],
@@ -39,21 +39,21 @@
 				"cases": [{
 						"model": {
 							"type": "minecraft:model",
-							"model": "crystalized:item/crossbow/quick_charge/crossbow_arrow"
+							"model": "minecraft:item/crossbow_arrow"
 						},
 						"when": "arrow"
 					},
 					{
 						"model": {
 							"type": "minecraft:model",
-							"model": "crystalized:item/crossbow/quick_charge/crossbow_firework"
+							"model": "minecraft:item/crossbow_firework"
 						},
 						"when": "rocket"
 					}
 				],
 				"fallback": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/crossbow/quick_charge/crossbow_standby"
+					"model": "minecraft:item/crossbow"
 				},
 				"property": "minecraft:charge_type"
 			},
@@ -63,20 +63,20 @@
 						"threshold": 0.58,
 						"model": {
 							"type": "minecraft:model",
-							"model": "crystalized:item/crossbow/quick_charge/crossbow_pulling_1"
+							"model": "minecraft:item/crossbow_pulling_1"
 						}
 					},
 					{
 						"threshold": 1,
 						"model": {
 							"type": "minecraft:model",
-							"model": "crystalized:item/crossbow/quick_charge/crossbow_pulling_2"
+							"model": "minecraft:item/crossbow_pulling_2"
 						}
 					}
 				],
 				"fallback": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/crossbow/quick_charge/crossbow_pulling_0"
+					"model": "minecraft:item/crossbow_pulling_0"
 				},
 				"property": "minecraft:crossbow/pull"
 			},
