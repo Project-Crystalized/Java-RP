@@ -7,20 +7,20 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:shardcore_nexus/ladycat_open"
+					"model": "crystalized:shardcore_nexus/ladycat1_open"
 				}
 			},
 			{
 				"threshold": 2,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:shardcore_nexus/ladycat_attention"
+					"model": "crystalized:shardcore_nexus/ladycat1_attention"
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "crystalized:shardcore_nexus/ladycat"
+			"model": "crystalized:shardcore_nexus/ladycat1"
 		}
 	}
 }
