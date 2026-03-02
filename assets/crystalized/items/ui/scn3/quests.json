@@ -7,13 +7,13 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "crystalized:item/scn3/settings_blink"
+					"model": "crystalized:item/scn3/quests_blink"
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "crystalized:item/scn3/settings"
+			"model": "crystalized:item/scn3/quests"
 		}
 	}
 }
