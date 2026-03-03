@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "ls-shop",
-		"particle": "ls-shop"
+		"0": "crystalized:item/custommodel/ls_shop/ls_shop",
+		"particle": "crystalized:item/custommodel/ls_shop/ls_shop"
 	},
 	"elements": [
 		{
@@ -38,12 +38,12 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 28.25, 8]},
 			"color": 6,
 			"faces": {
-				"north": {"uv": [0, 0, 2, 0.25], "texture": "#missing"},
-				"east": {"uv": [0, 0, 2, 0.25], "texture": "#missing"},
-				"south": {"uv": [0, 0, 2, 0.25], "texture": "#missing"},
-				"west": {"uv": [0, 0, 2, 0.25], "texture": "#missing"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+				"north": {"uv": [0, 0, 2, 0.25], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 0.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 0.25], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 0.25], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
 			}
 		},
 		{
