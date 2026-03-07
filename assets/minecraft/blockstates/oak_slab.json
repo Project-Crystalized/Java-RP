@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "type=double,waterlogged=true": {
+      "model": "crystalized:block/nexus_rainbow",
+      "uvlock": true,
+      "y": 180
+    }
+  }
+}
