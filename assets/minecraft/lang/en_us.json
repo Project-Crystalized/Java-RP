@@ -250,6 +250,8 @@
 	"crystalized.item.dragonarrow.desc":"On impact, will create dragon's breath around the arrow that will damage players when they walk on it.",
 	"crystalized.item.explosivearrow.name":"Explosive Arrow",
 	"crystalized.item.explosivearrow.desc":"Will explode on impact. Amplified with Explosive Bow",
+	"crystalized.item.windarrow.name":"Wind Arrow",
+	"crystalized.item.windarrow.desc":"Wind Charge on an arrow",
 	"crystalized.item.shardcore3.name":"Shardcore Nexus 3",
 	"crystalized.item.shardcore3.desc":"This handy device will help you around the lobby and this server!",
 	"crystalized.item.shardcore3.actionbar":" to open device.",
@@ -295,6 +297,8 @@
 	"crystalized.crossbow.quickcharge.desc":"Charges quicker than normal.",
 	"crystalized.crossbow.charged.name":"Charged Crossbow",
 	"crystalized.crossbow.charged.desc":"Replaces arrows with a lazer beam attack that hits players instantly!",
+	"crystalized.crossbow.precise.name":"Precise Crossbow",
+	"crystalized.crossbow.precise.desc":"Arrows shot will go in a straight line and not curve",
 
 	"crystalized.bow.desc":"Shoot arrows, Charge fully for maximum distance.",
 	"crystalized.bow.marksman.name":"Marksman Bow",
@@ -323,6 +327,8 @@
 	"crystalized.orb.poison.desc":"Generates a %1$s block radius that poisons enemy teams for %2$s seconds.",
 	"crystalized.orb.winged.name":"Winged Orb",
 	"crystalized.orb.winged.desc":"Launches you to the sky! (Will give you an elytra which will replace your chestplace if applicable)",
+	"crystalized.orb.feather.name":"Feather Orb",
+	"crystalized.orb.feather.desc":"Launches you to the sky and gives you slow falling!",
 
 	"crystalized.totem.antiair.name":"Anti-Air Totem",
 	"crystalized.totem.antiair.desc":"Stops elytra movement within the Totem's radius.",

@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "crystalized:block/iron_lightning_rod",
+      "x": 180
+    },
+    "facing=down,powered=true": {
+      "model": "crystalized:block/iron_lightning_rod2",
+      "x": 180
+    },
+    "facing=east,powered=false": {
+      "model": "crystalized:block/iron_lightning_rod",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,powered=true": {
+      "model": "crystalized:block/iron_lightning_rod2",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,powered=false": {
+      "model": "crystalized:block/iron_lightning_rod",
+      "x": 90
+    },
+    "facing=north,powered=true": {
+      "model": "crystalized:block/iron_lightning_rod2",
+      "x": 90
+    },
+    "facing=south,powered=false": {
+      "model": "crystalized:block/iron_lightning_rod",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "crystalized:block/iron_lightning_rod2",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,powered=false": {
+      "model": "crystalized:block/iron_lightning_rod"
+    },
+    "facing=up,powered=true": {
+      "model": "crystalized:block/iron_lightning_rod2"
+    },
+    "facing=west,powered=false": {
+      "model": "crystalized:block/iron_lightning_rod",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,powered=true": {
+      "model": "crystalized:block/iron_lightning_rod2",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
