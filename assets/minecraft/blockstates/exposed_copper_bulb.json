@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false,powered=false": {
+      "model": "crystalized:block/blue_tile_bulb"
+    },
+    "lit=true,powered=false": {
+      "model": "crystalized:block/blue_tile_bulb_on"
+    }
+  }
+}
