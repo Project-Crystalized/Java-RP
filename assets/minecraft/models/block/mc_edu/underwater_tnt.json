@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.11",
+	"parent": "block/block",
+	"credit": "Made by Callum_Is_Bad using Blockbench",
+	"textures": {
+		"0": "block/mc_edu/tnt_side_underwater",
+		"1": "block/mc_edu/tnt_top_underwater",
+		"2": "block/mc_edu/tnt_bottom_underwater",
+		"particle": "block/mc_edu/tnt_side_underwater"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

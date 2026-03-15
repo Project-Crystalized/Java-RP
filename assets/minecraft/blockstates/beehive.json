@@ -1,0 +1,51 @@
+{
+  "variants": {
+    "facing=north,honey_level=1": {
+      "model": "minecraft:block/mc_edu/element_constructor"
+    },
+    "facing=east,honey_level=1": {
+      "model": "minecraft:block/mc_edu/element_constructor",
+      "y": 90
+    },
+    "facing=south,honey_level=1": {
+      "model": "minecraft:block/mc_edu/element_constructor",
+      "y": 180
+    },
+    "facing=west,honey_level=1": {
+      "model": "minecraft:block/mc_edu/element_constructor",
+      "y": 270
+    },
+
+    "facing=north,honey_level=2": {
+      "model": "minecraft:block/mc_edu/lab_table"
+    },
+    "facing=east,honey_level=2": {
+      "model": "minecraft:block/mc_edu/lab_table",
+      "y": 90
+    },
+    "facing=south,honey_level=2": {
+      "model": "minecraft:block/mc_edu/lab_table",
+      "y": 180
+    },
+    "facing=west,honey_level=2": {
+      "model": "minecraft:block/mc_edu/lab_table",
+      "y": 270
+    },
+
+    "facing=north,honey_level=3": {
+      "model": "minecraft:block/mc_edu/material_reducer"
+    },
+    "facing=east,honey_level=3": {
+      "model": "minecraft:block/mc_edu/material_reducer",
+      "y": 90
+    },
+    "facing=south,honey_level=3": {
+      "model": "minecraft:block/mc_edu/material_reducer",
+      "y": 180
+    },
+    "facing=west,honey_level=3": {
+      "model": "minecraft:block/mc_edu/material_reducer",
+      "y": 270
+    }
+  }
+}
