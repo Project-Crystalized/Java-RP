@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "unstable=true": {
+      "model": "minecraft:block/mc_edu/underwater_tnt"
+    }
+  }
+}

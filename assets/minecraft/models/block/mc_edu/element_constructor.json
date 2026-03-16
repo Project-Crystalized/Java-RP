@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"parent": "block/block",
+	"credit": "Made by Callum_Is_Bad using Blockbench",
+	"textures": {
+		"0": "block/mc_edu/element_constructor_front",
+		"1": "block/mc_edu/element_constructor_back",
+		"2": "block/mc_edu/element_constructor_side_a",
+		"3": "block/mc_edu/element_constructor_side_b",
+		"4": "block/mc_edu/element_constructor_top",
+		"5": "block/spruce_planks",
+		"particle": "block/mc_edu/element_constructor_front"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#5"}
+			}
+		}
+	]
+}
