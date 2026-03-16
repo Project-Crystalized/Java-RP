@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"1": "block/azalea_leaves_bush",
+		"particle": "block/azalea_leaves",
+		"leaves": "block/azalea_leaves"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
+		},
+		{
+			"from": [8, -3, -7.5],
+			"to": [8, 19, 23.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0, 2, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, -3, -7.5],
+			"to": [8, 19, 23.5],
+			"rotation": {"x": 180, "y": -45, "z": 180, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0, 2, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	]
+}
