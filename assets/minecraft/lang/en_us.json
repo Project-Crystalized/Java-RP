@@ -116,6 +116,11 @@
 	"crystalized.shardcore.stats.items_used": "Items used: ",
 	"crystalized.shardcore.stats.gametype": "Game type: ",
 	"crystalized.shardcore.stats.never_played": "This player hasn't played this game before",
+	"crystalized.shardcore.quests.name": "Quests",
+	"crystalized.shardcore.quests.difficulty.easy": "Easy",
+	"crystalized.shardcore.quests.difficulty.medium": "Medium",
+	"crystalized.shardcore.quests.difficulty.hard": "Hard",
+	"crystalized.shardcore.quests.difficulty.expert": "Expert",
 
 	"crystalized.game.knockoff.name":"Knockoff",
 	"crystalized.game.knockoff.round":"ʀᴏᴜɴᴅ",

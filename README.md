@@ -1,6 +1,6 @@
 Crystalized Java Resource Pack!
 
-For version 1.21.7/.8
+For version 1.21.11
 
 # Contributers
 TotallyNoCallum - Made Majority of the files here<br>
@@ -30,6 +30,8 @@ The TubNet Team - Some assets<br>
 \uA010 - Shardcore Wardrobe - Category Selected <br>
 \uA011 - Shardcore Achivements - Category Selected <br>
 \uA012 - Shardcore Profile Stats <br>
+\uA013 - Crystal Blitz Shop - Upgrades <br>
+\uA014 - Shardcore Quests <br>
 
 \uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
 \uE101 - Sword Death Icon (used in chat) <br>
