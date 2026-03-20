@@ -1,6 +1,7 @@
 {
 	"crystalized.generic.yes":"Sí",
-	"crystalized.generic.accept":"Sí",
+	"crystalized.generic.no":"No",
+	"crystalized.generic.accept":"Acceptar",
 	"crystalized.generic.deny":"No",
 
 	"crystalized.game.generic.team":"Equipo",
@@ -22,6 +23,8 @@
 	"crystalized.shardcore.app.games.name":"Juegos",
 	"crystalized.shardcore.app.party.name":"Amigos y Partida",
 	"crystalized.shardcore.app.shop.name":"Tienda",
+	"crystalized.shardcore.achivements.name":"Progresos",
+	"crystalized.shardcore.maps.name":"Mapas",
 
 	"crystalized.game.knockoff.name":"Knockoff",
 	"crystalized.game.knockoff.respawn1":"Tú de reaparecer en ",
@@ -32,6 +35,36 @@
 	"crystalized.game.knockoff.win":"Gana del juego!",
 
 	"crystalized.game.litestrike.name":"Litestrike",
+	"crystalized.game.litestrike.communicator.lets_go_a":"¡Vamos a A!",
+	"crystalized.game.litestrike.communicator.lets_go_b":"¡Vamos a B!",
+	"crystalized.game.litestrike.communicator.go_here":"¡Vamos Aquí!",
+
+	"crystalized.game.crystalblitz.name":"Crystal Blitz",
+	"crystalized.game.crystalblitz.bluenexus":"Nexo Azul",
+	"crystalized.game.crystalblitz.cyannexus":"Nexo Cian",
+	"crystalized.game.crystalblitz.greennexus":"Nexo verde",
+	"crystalized.game.crystalblitz.limenexus":"Nexo Lime",
+	"crystalized.game.crystalblitz.magentanexus":"Nexo Magenta",
+	"crystalized.game.crystalblitz.rednexus":"Nexo Roja",
+	"crystalized.game.crystalblitz.yellownexus":"Nexo Amarillo",
+	"crystalized.game.crystalblitz.whitenexus":"Nexo Blanco",
+
+	"crystalized.cosmetic.shardcorenexus3/blue":"Azul",
+	"crystalized.cosmetic.shardcorenexus3/gray":"Gris",
+	"crystalized.cosmetic.shardcorenexus3/purple":"Violeta",
+
+	"crystalized.item.nexusblock.name":"Bloque de Nexo",
+	"crystalized.item.dragonarrow.name":"Flecha Dragón",
+	"crystalized.item.arrows.name":"Flechas",
+	"crystalized.item.explosivearrow.name":"Flecha Explosivo",
+	"crystalized.item.weakshard.name":"Fragmento Stale",
+	"crystalized.item.stoneshard.name":"Fragmento Pure",
+	"crystalized.item.nexusshard.name":"Fragmento Nexo",
+
+	"crystalized.sword.slime.name":"Espada de Slime",
+	"crystalized.sword.pufferfish.name":"Espada de pez globo",
+
+	"crystalized.bow.explosive.name":"Arco Explosivo",
 
 	"title.multiplayer.other": "Multijugador - Crystalized",
 	"container.inventory":" ",
