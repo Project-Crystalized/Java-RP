@@ -348,6 +348,13 @@
 	"crystalized.totem.slime.name":"Slime Totem",
 	"crystalized.totem.slime.desc":"tba",
 
+	"crystalized.subtitles.hazard": "§dJump Pad activates",
+	"crystalized.subtitles.trainhorn": "§dTrain horns",
+	"crystalized.subtitles.shardbeep": "§dS.H.A.R.D beeps",
+	"crystalized.subtitles.sharddeto": "§dS.H.A.R.D detonates",
+	"crystalized.subtitles.sharddeac": "§dS.H.A.R.D deactivates",
+	"crystalized.subtitles.shardac": "§dS.H.A.R.D activates",
+
 	"title.multiplayer.other": "Multiplayer - Crystalized",
 	"container.inventory":" ",
 	"container.crafting":" ",

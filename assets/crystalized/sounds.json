@@ -12,7 +12,8 @@
     "effect.hazard_positive": {
 	"sounds": [
             {"name": "crystalized:effects/hazard_positive", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.hazard"
     },
     "effect.countdown": {
 	"sounds": [
@@ -77,7 +78,8 @@
     "effect.star_plant": {
 	"sounds": [
             {"name": "crystalized:effects/shard/star_plant", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.shardac"
     },
     "effect.ls_game_won": {
 	"sounds": [
@@ -122,31 +124,37 @@
     "effect.ambient.train_horn": {
 	"sounds": [
             {"name": "crystalized:effects/ambient/train_horn", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.trainhorn"
     },
     "effect.shard.beep_1": {
 	"sounds": [
             {"name": "crystalized:effects/shard/star_beep-1", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.shardbeep"
     },
     "effect.shard.beep_2": {
 	"sounds": [
             {"name": "crystalized:effects/shard/star_beep-2", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.shardbeep"
     },
     "effect.shard.beep_3": {
 	"sounds": [
             {"name": "crystalized:effects/shard/star_beep-3", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.shardbeep"
     },
     "effect.shard.deactivation": {
 	"sounds": [
             {"name": "crystalized:effects/shard/star-deactivation", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.sharddeac"
     },
     "effect.shard.detonation": {
 	"sounds": [
             {"name": "crystalized:effects/shard/star-detonation", "stream": false}
-        ]
+        ],
+        "subtitle": "crystalized.subtitles.sharddeto"
     }
 }
