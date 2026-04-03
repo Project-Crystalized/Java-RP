@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "distance=1,persistent=false": {
+      "model": "minecraft:block/azalea_leaves_apple"
+    }
+  }
+}
