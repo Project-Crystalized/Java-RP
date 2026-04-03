@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "crystalized:block/big_dandelion",
-		"particle": "crystalized:block/big_dandelion"
+		"0": "botanica:block/big_golden_dandelion",
+		"particle": "botanica:block/big_golden_dandelion"
 	},
 	"elements": [
 		{

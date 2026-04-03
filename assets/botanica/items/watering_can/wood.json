@@ -11,11 +11,11 @@
 					"keybind": "key.use",
 					"on_true": {
 						"type": "model",
-						"model": "crystalized:item/watering_can_filled_use"
+						"model": "botanica:item/watering_can_filled_use"
 					},
 					"on_false": {
 						"type": "model",
-						"model": "crystalized:item/watering_can_filled"
+						"model": "botanica:item/watering_can_filled"
 					}
 				}
 			}
@@ -26,11 +26,11 @@
 			"keybind": "key.use",
 			"on_true": {
 				"type": "model",
-				"model": "crystalized:item/watering_can"
+				"model": "botanica:item/watering_can"
 			},
 			"on_false": {
 				"type": "model",
-				"model": "crystalized:item/watering_can"
+				"model": "botanica:item/watering_can"
 			}
 		}
 	}

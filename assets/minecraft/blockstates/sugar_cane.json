@@ -1,10 +1,10 @@
 {
   "variants": {
     "age=1": {
-      "model": "crystalized:block/big_dandelion"
+      "model": "botanica:block/big_dandelion"
     },
     "age=2": {
-      "model": "crystalized:block/big_golden_dandelion"
+      "model": "botanica:block/big_golden_dandelion"
     }
   }
 }
