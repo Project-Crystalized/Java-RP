@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "MiteDA",
 	"texture_size": [128, 128],
 	"textures": {
@@ -87,6 +88,7 @@
 		{
 			"from": [-2, 4, 7],
 			"to": [32, 24, 10],
+			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [12, 4, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 4.25, 2.5], "texture": "#0"},
