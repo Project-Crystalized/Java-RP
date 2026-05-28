@@ -162,5 +162,14 @@ The TubNet Team - Some assets<br>
 \uE307 - Mod Icon <br>
 \uE308 - Sub-Project Maker Rank <br>
 \uE309 - Sub-Project Maker Icon <br>
+\uE30A - Creator Rank <br>
+\uE30B - Creator Icon <br>
+\uE30C - Sun Rank <br>
+\uE30D - Sun Icon <br>
+\uE30E - Moon Rank <br>
+\uE30F - Moon Icon <br>
+
+\uE310 - Supporter Rank <br>
+\uE311 - Suppoter Icon <br>
 
 \uE400 - Litestrike Bossbar <br>
