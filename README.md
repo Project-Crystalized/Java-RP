@@ -1,6 +1,6 @@
 Crystalized Java Resource Pack!
 
-For version 1.21.11
+For versions 26.1.2 - 26.2
 
 # Contributers
 TotallyNoCallum - Made Majority of the files here<br>
