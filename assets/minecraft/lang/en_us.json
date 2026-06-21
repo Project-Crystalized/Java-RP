@@ -161,6 +161,8 @@
 	"crystalized.achievement.cb_clutch.desc": "Clutch from a fall in the void using a Boost or Feather Orb and land back on the map.",
 	"crystalized.achievement.cb_puritarian.name": "Puritarian",
 	"crystalized.achievement.cb_puritarian.desc": "Mine and Carry 5 stacks of Pure Shards in your inventory",
+	"crystalized.achievement.cb_everythingbought.name": "Got everything for the team",
+	"crystalized.achievement.cb_everythingbought.desc": "Buy every single team upgrade.",
 	"crystalized.achievement.cb_nexuscollecter.name": "Nexus Collector",
 	"crystalized.achievement.cb_nexuscollecter.desc": "Break 3 Nexuses in 1 game.",
 	"crystalized.achievement.cb_elimeveryone.name": "Eliminate Everyone",
