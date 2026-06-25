@@ -1,0 +1,4 @@
+{
+    "parent": "block/cross",
+    "textures": {"cross": "crystalized:block/nexus_rainbow_cluster"}
+}

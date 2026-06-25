@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "rotation=0,waterlogged=false": {
+      "model": "crystalized:block/nexus_rainbow_cluster"
+    }
+  }
+}
