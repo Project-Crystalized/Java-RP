@@ -156,5 +156,15 @@
             {"name": "crystalized:effects/shard/star-detonation", "stream": false}
         ],
         "subtitle": "crystalized.subtitles.sharddeto"
+    },
+    "effect.achievement_obtain": {
+	"sounds": [
+            {"name": "crystalized:effects/achievement_obtain", "stream": false}
+        ]
+    },
+    "effect.achievement_obtain_expert": {
+	"sounds": [
+            {"name": "crystalized:effects/achievement_obtain_expert", "stream": false}
+        ]
     }
 }

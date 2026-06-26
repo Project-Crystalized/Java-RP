@@ -133,6 +133,8 @@
 	"crystalized.achievement.general_chesswin.desc": "Win a Game of Chess",
 	"crystalized.achievement.ls_win.name": "Litestrike Winner",
 	"crystalized.achievement.ls_win.desc": "Win a Litestrike game as either team.",
+	"crystalized.achievement.ls_lastalive.name": "Last one alive",
+	"crystalized.achievement.ls_lastalive.desc": "Win a round while all your other teammates are dead.",
 	"crystalized.achievement.ls_ace.name": "Flawless Round",
 	"crystalized.achievement.ls_ace.desc": "Get an Ace in any round. (kill the other team without help from teammates)",
 	"crystalized.achievement.ls_quickdefuser.name": "Quick Defuser",
