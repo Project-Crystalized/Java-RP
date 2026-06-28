@@ -1,0 +1,9 @@
+{
+    "parent": "block/end_portal_frame",
+    "textures": {
+        "particle": "block/diorite",
+        "bottom": "block/diorite",
+        "top": "block/diorite",
+        "side": "block/diorite"
+    }
+}

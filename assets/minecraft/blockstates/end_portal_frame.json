@@ -2,6 +2,9 @@
   "variants": {
     "facing=north,eye=false": {
       "model": "crystalized:block/end_stone_path"
+    },
+    "facing=east,eye=false": {
+      "model": "crystalized:block/diorite_path"
     }
   }
 }
