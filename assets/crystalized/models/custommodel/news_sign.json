@@ -1,0 +1,43 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "crystalized:item/custommodel/news_sign",
+		"particle": "crystalized:item/custommodel/news_sign"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 8],
+			"to": [32, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"faces": {
+				"north": {"uv": [12, 0, 0, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 12, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"up": {"uv": [12, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, -2, 7],
+			"to": [32, 18, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 5]},
+			"faces": {
+				"north": {"uv": [12, 4, 0, 8.75], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"south": {"uv": [0, 4, 12, 8.75], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#0"},
+				"up": {"uv": [12, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
