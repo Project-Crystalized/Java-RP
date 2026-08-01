@@ -522,9 +522,9 @@
 	"crystalized.crossbow.quickcharge.name":"Quick Charge Crossbow",
 	"crystalized.crossbow.quickcharge.desc":"Charges quicker than normal.",
 	"crystalized.crossbow.charged.name":"Charged Crossbow",
-	"crystalized.crossbow.charged.desc":"Replaces arrows with a lazer beam attack that hits players instantly!",
+	"crystalized.crossbow.charged.desc":"Fires lighting fast arrows. Deals an extra 1 heart on headshot.",
 	"crystalized.crossbow.precise.name":"Precise Crossbow",
-	"crystalized.crossbow.precise.desc":"Arrows shot will go in a straight line and not curve",
+	"crystalized.crossbow.precise.desc":"Arrows shot will go in a straight line and not curve. Dealing extra 2 hearts on headshots",
 
 	"crystalized.bow.desc":"Shoot arrows, Charge fully for maximum distance.",
 	"crystalized.bow.marksman.name":"Marksman Bow",
