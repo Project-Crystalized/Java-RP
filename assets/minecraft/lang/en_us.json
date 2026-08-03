@@ -414,6 +414,10 @@
 	"crystalized.game.litestrike.communicator.cooked":"I might be cooked...",
 	"crystalized.game.litestrike.communicator.meow":"Meow. (drop pls)",
 
+	"crystalized.game.litestrike.shop.have_already":"You already have this item",
+	"crystalized.game.litestrike.shop.enough":"We won't sell you more, you got more than you need.",
+	"crystalized.game.litestrike.shop.cant_afford":"You cant afford this.",
+
 	"crystalized.game.litestrike.ranked.is":" is\n\n",
 	"crystalized.game.litestrike.ranked.with_rp":"\n\nwith %1$s rank points.",
 	"crystalized.game.litestrike.ranked.number":"\nYou are number %1$s in rp.",
