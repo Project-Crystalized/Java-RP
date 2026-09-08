@@ -166,5 +166,10 @@
 	"sounds": [
             {"name": "crystalized:effects/achievement_obtain_expert", "stream": false}
         ]
+    },
+    "effect.level_up": {
+	"sounds": [
+            {"name": "crystalized:effects/level_up", "stream": false}
+        ]
     }
 }
