@@ -173,3 +173,5 @@ The TubNet Team - Some assets<br>
 \uE311 - Suppoter Icon <br>
 
 \uE400 - Litestrike Bossbar <br>
+\uE15C - Money <br>
+\uE320 - Knockoff Logo <br>
