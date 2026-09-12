@@ -175,3 +175,4 @@ The TubNet Team - Some assets<br>
 \uE400 - Litestrike Bossbar <br>
 \uE15C - Money <br>
 \uE320 - Knockoff Logo <br>
+\uE321 - Level Up Symbol <br>
