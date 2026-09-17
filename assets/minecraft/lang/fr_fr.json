@@ -103,6 +103,10 @@
     "crystalized.lobby.scoreboard.players":"Joueurs: ",
     "crystalized.lobby.scoreboard.rank":"Grade: ",
 
+    "crystalized.lobby.parkour.return_to_checkpoint":"Retour au Point de Côntrole",
+    "crystalized.lobby.parkour.restart":"Recommencer le Parkour",
+    "crystalized.lobby.parkour.end":"Terminer le Parkour",
+
     "crystalized.lobby.litestrike.shortdesc": " Mode de Jeu Équipe v Équipe PVP.",
     "crystalized.lobby.litestrike.desc1": " Dans ce jeu, vous êtes divisé en 2 équipes, les Briseurset les Placers.",
     "crystalized.lobby.litestrike.desc2": " Les Placers doivent placer la bombe et la défendre, etles Briseurs doivent ",
