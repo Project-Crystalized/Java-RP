@@ -112,6 +112,10 @@
 	"crystalized.lobby.scoreboard.players":"Spieler: ",
 	"crystalized.lobby.scoreboard.rank":"Rang: ",
 
+	"crystalized.lobby.parkour.return_to_checkpoint":"Zurück zum Checkpunkt",
+	"crystalized.lobby.parkour.restart":"Parkour neu starten",
+	"crystalized.lobby.parkour.end":"Parkour beenden",
+
 	"crystalized.shardcore.generic.scrollright":"Nach rechts scrollen",
 	"crystalized.shardcore.generic.scrollleft":"Nach links scrollen",
 	"crystalized.shardcore.generic.scrollup":"Nach oben scrollen",

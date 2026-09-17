@@ -65,6 +65,10 @@
 	"crystalized.lobby.knockoff.desc4":"seções, Powerups e blocos infinitos estarão disponíveis.",
 	"crystalized.lobby.knockoff.credits":"Inspirado originalmente em TubNet \"Knockout\", refeito e agora open-source!",
 
+	"crystalized.lobby.parkour.return_to_checkpoint":"Volta para o Checkpoint",
+    "crystalized.lobby.parkour.restart":"Retentar o Parkour",
+    "crystalized.lobby.parkour.end":"Terminar o Parkour",
+
 	"crystalized.shardcore.app.settings.name":"Configurações",
 	"crystalized.shardcore.app.profile.name":"Perfil",
 	"crystalized.shardcore.app.games.name":"Jogos",

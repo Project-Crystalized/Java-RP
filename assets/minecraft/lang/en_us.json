@@ -105,6 +105,10 @@
 	"crystalized.lobby.scoreboard.players":"Players: ",
 	"crystalized.lobby.scoreboard.rank":"Rank: ",
 
+	"crystalized.lobby.parkour.return_to_checkpoint":"Return to Checkpoint",
+	"crystalized.lobby.parkour.restart":"Restart Parkour",
+	"crystalized.lobby.parkour.end":"End Parkour",
+
 	"crystalized.lobby.litestrike.shortdesc":"Team v Team PVP gamemode.",
 	"crystalized.lobby.litestrike.desc1":"In this game you are separated into 2 teams, Breakers and Placers.",
 	"crystalized.lobby.litestrike.desc2":"The Placers must place the bomb and defend it, and the Breakers must",
