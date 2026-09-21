@@ -28,6 +28,7 @@
 	"crystalized.generic.queue.rejoin":"Connecting you to your previous game...",
 	"crystalized.generic.queue.rejoin.supported":"Rejoining is only supported for Litestrike and Litestrike ranked currently.",
 	"crystalized.generic.queue.rejoin.fail":"You're not part of any ongoing game.",
+	"crystalized.generic.queue.unqueue":"Leave Queue",
 
 	"crystalized.generic.right_click":"[Right-click] ",
 	"crystalized.generic.left_click":"[Left-click] ",

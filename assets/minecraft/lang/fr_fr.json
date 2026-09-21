@@ -28,6 +28,7 @@
     "crystalized.generic.queue.rejoin":"Connexion à votre jeu précédente...",
     "crystalized.generic.queue.rejoin.supported":"La reconnexion n’est actuellement prise en charge que pour les modes Litestrike et Litestrike gradé .",
     "crystalized.generic.queue.rejoin.fail":"Vous ne participez à aucune jeu en cours.",
+    "crystalized.generic.queue.unqueue":"Quitter la File d’attente",
 
     "crystalized.proxy.ban": "Vous avez été banni pour: ",
 

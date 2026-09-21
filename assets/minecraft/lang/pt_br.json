@@ -48,6 +48,7 @@
 	"crystalized.generic.queue.rejoin":"A conectar-te à tua partida anterior...",
 	"crystalized.generic.queue.rejoin.supported":"Por agora, só podes conectar-te à partida anterior em Litestrike e em Litestrike ranked.",
 	"crystalized.generic.queue.rejoin.fail":"Tu não és parte de nenhum jogo a decorrer neste momento.",
+	"crystalized.generic.queue.unqueue":"Sair da queue",
 
 	"crystalized.lobby.chat.welcomemessage1":"Bem vindo à Crystalized!",
 	"crystalized.lobby.chat.welcomemessage2":"Crystalized ainda está em desenvolvimento, bugs são esperados. Caso encontre algum bug, reporte para a equipe de desenvolvedores via discord.",

@@ -28,6 +28,7 @@
 	"crystalized.generic.queue.rejoin":"Verbindung zu deinem vorherigen Spiel wird hergestellt...",
 	"crystalized.generic.queue.rejoin.supported":"Wiederverbinden ist momentan nur für Litestrike und Litestrike ranked möglich.",
 	"crystalized.generic.queue.rejoin.fail":"Du bist nicht Teil eines laufenden Spiels.",
+	"crystalized.generic.queue.unqueue":"Schlange verlassen",
 
 	"crystalized.proxy.ban": "Du wurdest gebannt wegen: ",
 
