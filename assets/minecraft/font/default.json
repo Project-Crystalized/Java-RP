@@ -2,6 +2,7 @@
     "providers": [
 		{"type": "bitmap", "file": "crystalized:gui/neg_space.png", "ascent": -32768, "height": -10, "chars": ["\uA000"]},
 		{"type": "bitmap", "file": "crystalized:gui/ls_shop.png", "ascent": 13, "height": 256, "chars": ["\uA001"]},
+		{"type": "bitmap", "file": "crystalized:gui/ls_shop_generic.png", "ascent": 13, "height": 256, "chars": ["\uA016"]},
 		{"type": "bitmap", "file": "crystalized:gui/shardcorenexus3_home.png", "ascent":48, "height": 256, "chars": ["\uA002"]},
 		{"type": "bitmap", "file": "crystalized:gui/shardcorenexus3_home_partyrequest.png", "ascent":48, "height": 256, "chars": ["\uA003"]},
 		{"type": "bitmap", "file": "crystalized:gui/shardcorenexus3_shop_main.png", "ascent":48, "height": 256, "chars": ["\uA004"]},
