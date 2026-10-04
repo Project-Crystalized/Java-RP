@@ -3,8 +3,8 @@
 	"credit": "MiteDA",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "crystalized:item/cosmetic/handheld/disablity_flag",
-		"particle": "crystalized:item/cosmetic/handheld/disablity_flag"
+		"0": "crystalized:item/cosmetic/handheld/disability_flag",
+		"particle": "crystalized:item/cosmetic/handheld/disability_flag"
 	},
 	"elements": [
 		{
