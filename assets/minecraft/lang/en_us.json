@@ -308,7 +308,7 @@
 	"crystalized.shardcore.quests.category.items_used": "Use %1$s items in ",
 	"crystalized.shardcore.quests.category.blocks_placed": "Place %1$s blocks in ",
 	"crystalized.shardcore.quests.category.blocks_broken": "Break %1$s blocks in ",
-	"crystalized.shardcore.quests.category.nexus_kills": "Destroy %1$s Nexus shards in ",
+	"crystalized.shardcore.quests.category.nexus_kills": "Shatter %1$s Nexuses in ",
 
 	"crystalized.achievement.chat": "You earned the achievement [%1$s], claim rewards in the Achievement menu in the lobby.",
 	"crystalized.achievement.notif": "Achievement Earned!",
