@@ -13,7 +13,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "crystalized:custommodel/b"
+			"model": "crystalized:custommodel/b_last_stand"
 		}
 	}
 }

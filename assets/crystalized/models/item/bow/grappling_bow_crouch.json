@@ -1,6 +1,0 @@
-{
-	"parent":"crystalized:template_horizontalbow",
-	"textures":{
-		"layer0":"crystalized:item/bow/grappling_bow"
-	}
-}

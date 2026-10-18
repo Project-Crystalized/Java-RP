@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "distance=1,persistent=false": {
-      "model": "minecraft:block/oak_leaves_apple"
-    }
-  }
-}

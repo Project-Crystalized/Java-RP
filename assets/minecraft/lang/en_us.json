@@ -1,5 +1,5 @@
 {
-	"crystalized.credits":"Tubbo_ & The TubNet Team (some assets), Callum_Is_Bad, The Crystalized Team.",
+	"crystalized.credits":"Tubbo_ & The TubNet Team (some assets), The Crystalized Team.",
 
 	"crystalized.generic.yes":"Yes",
 	"crystalized.generic.no":"No",
@@ -545,16 +545,11 @@
 	"crystalized.game.crystalblitz.upgrades.desc.protection":"Gives Protection 1 to armour",
 	"crystalized.game.crystalblitz.upgrades.already_bought":"This upgrade is already bought.",
 
-
-	"crystalized.cosmetic.shardcorenexus3/blue":"Blue",
-	"crystalized.cosmetic.shardcorenexus3/gray":"Gray",
 	"crystalized.cosmetic.shardcorenexus3/purple":"Purple",
 	"crystalized.cosmetic.shardcorenexus3/augustify":"Augustify's design",
 	"crystalized.cosmetic.shardcorenexus3/abby1":"Abbymcraft's design",
 	"crystalized.cosmetic.shardcorenexus3/shadow1":"sh4d0w_xd's design",
 	"crystalized.cosmetic.shardcorenexus3/ladycat1":"LadyCat_'s design",
-	"crystalized.cosmetic.shardcorenexus3/mite":"MiteDA's design",
-	"crystalized.cosmetic.shardcorenexus3/litestrike":"Litestrike design",
 
 	"crystalized.cosmetic/head/beanie":"Beanie",
 	"crystalized.cosmetic/head/crown":"Crown",
@@ -563,31 +558,16 @@
 	"crystalized.cosmetic/head/merica":"Cowboy Hat",
 	"crystalized.cosmetic/head/captain_hat":"Captain Hat",
 	"crystalized.cosmetic/head/ls_headband":"Litestrike Headband",
-	"crystalized.cosmetic/head/master_bandana":"Master Bandana",
 	"crystalized.cosmetic/head/shardcorevr":"Shardcore VR",
-	"crystalized.cosmetic/head/sunglasses":"Sunglasses",
 	"crystalized.cosmetic/head/axolotl_hat":"Axolotl Hat",
 	"crystalized.cosmetic/head/black_cat_beanie":"Black Cat Beanie",
 	"crystalized.cosmetic/head/craftmaster_hat":"Craftmaster Hat",
-	"crystalized.cosmetic/head/dragon":"Dragon",
 	"crystalized.cosmetic/head/lemon_cap":"Lemon Cap",
-	"crystalized.cosmetic/head/hamster":"Hamster",
 
 	"crystalized.cosmetic/handheld/handbag":"Handbag",
-	"crystalized.cosmetic/handheld/merica_flag":"American Flag",
-	"crystalized.cosmetic/handheld/golf_club":"Golf Club",
-	"crystalized.cosmetic/handheld/laptop":"Laptop",
 	"crystalized.cosmetic/handheld/pride_flag":"Pride Flag",
 	"crystalized.cosmetic/handheld/star_bubble_wand":"Star Bubble Wand",
-	"crystalized.cosmetic/handheld/disability_flag":"Disability Flag",
-	"crystalized.cosmetic/handheld/frying_pan_flag":"Pan Flag",
-	"crystalized.cosmetic/handheld/kris_flag":"I don't know which sexuality this is Flag",
-	"crystalized.cosmetic/handheld/bi_flag":"Bi Flag",
-	"crystalized.cosmetic/handheld/nonbinary_flag":"Nonbinary Flag",
-	"crystalized.cosmetic/handheld/pow":"Pow",
 	"crystalized.cosmetic/handheld/shopping_bag":"Shopping Bag",
-	"crystalized.cosmetic/handheld/thatladygagasong":"Phone",
-	"crystalized.cosmetic/handheld/trans_flag":"Trans Flag",
 
 	"crystalized.item.bomb.name":"S.H.A.R.D.",
 	"crystalized.item.bomb.desc":"This is the bomb.",
@@ -636,8 +616,6 @@
 	"crystalized.sword.slime.desc2":"and slows Players down.",
 	"crystalized.sword.pufferfish.name":"Pufferfish Sword",
 	"crystalized.sword.pufferfish.desc":"Poisons players on contact.",
-	"crystalized.sword.wind.name":"Breeze Dagger",
-	"crystalized.sword.wind.desc":"Dash ability: Right Click to Dash. You have 2 Dashes with a cooldown.",
 	"crystalized.sword.underdog.name":"Underdog Sword",
 	"crystalized.sword.underdog.desc":"Gains 0.5 extra damage per team loss.",
 
@@ -648,8 +626,6 @@
 	"crystalized.crossbow.quickcharge.desc":"Charges quicker than normal.",
 	"crystalized.crossbow.charged.name":"Charged Crossbow",
 	"crystalized.crossbow.charged.desc":"Fires lighting fast arrows. Deals an extra 1 heart on headshot.",
-	"crystalized.crossbow.precise.name":"Precise Crossbow",
-	"crystalized.crossbow.precise.desc":"Arrows shot will go in a straight line and not curve. Dealing extra 2 hearts on headshots",
 
 	"crystalized.bow.desc":"Shoot arrows, Charge fully for maximum distance.",
 	"crystalized.bow.marksman.name":"Marksman Bow",
@@ -659,8 +635,6 @@
 	"crystalized.bow.explosive.desc2":"Amplified with Explosive Arrows.",
 	"crystalized.bow.ricochet.name":"Ricochet Bow",
 	"crystalized.bow.ricochet.desc":"Arrows bounce multiple times.",
-	"crystalized.bow.angled.name":"Angled Bow",
-	"crystalized.bow.angled.desc":"Horizontal-holding Bow that does extra damage.",
 
 	"crystalized.orb.boost.name":"Boost Orb",
 	"crystalized.orb.boost.desc":"Gives you a speed boost in whatever direction you're looking towards, can also left you up in the air.",

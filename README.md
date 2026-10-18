@@ -3,11 +3,8 @@ Crystalized Java Resource Pack!
 For versions 26.1.2 - 26.2
 
 # Contributers
-TotallyNoCallum - Made Majority of the files here<br>
-MiteDA - Modeling and Texturing<br>
 Abbymcraft - Modeling<br>
 Thejoeybug - Modeling<br>
-minidrwho - Texturing <br>
 The TubNet Team - Some assets<br>
 
 # Unicode List
@@ -33,7 +30,7 @@ The TubNet Team - Some assets<br>
 \uA013 - Crystal Blitz Shop - Upgrades <br>
 \uA014 - Shardcore Quests <br>
 
-\uE100 - LiteStrike Logo (temporarily TubNet's for now) <br>
+\uE100 - REDACTED <br>
 \uE101 - Sword Death Icon (used in chat) <br>
 \uE102 - Bow Death Icon <br>
 \uE103 - Generic Death Icon <br>
@@ -81,8 +78,8 @@ The TubNet Team - Some assets<br>
 \uE12B - Purple Icon (a grape temporarily) <br>
 \uE12C - Heart Icon <br>
 \uE12D - Half Heart Icon <br>
-\uE12E - Knockoff Icon <br>
-\uE12F - Crystal Blitz Icon <br>
+\uE12E - REDACTED <br>
+\uE12F - REDACTED <br>
 
 \uE130 - Knockoff Respawn timer 0 <br>
 \uE131 - Knockoff Respawn timer 1 <br>
@@ -94,8 +91,8 @@ The TubNet Team - Some assets<br>
 \uE137 - Knockoff Respawn timer 7 <br>
 \uE138 - Knockoff Respawn timer - Alive <br>
 \uE139 - Knockoff Repsawn timer - Eliminated <br>
-\uE13A - Breeze Dagger Dash <br>
-\uE13B - Breeze Dagger Dash (empty) <br>
+\uE13A - REDACTED <br>
+\uE13B - REDACTED <br>
 
 \uE140 - LS ranked: Dirt <br>
 \uE141 - LS ranked: Stone <br>
@@ -107,25 +104,25 @@ The TubNet Team - Some assets<br>
 \uE147 - LS ranked: Emerald <br>
 \uE148 - LS ranked: Diamond <br>
 \uE149 - LS ranked: Netherite <br>
-\uE14A - Litestrike Bossbar Player Alive (left side)<br>
-\uE14B - Litestrike Bossbar Player Dead (left side)<br>
-\uE14C - Litestrike Bossbar Player Disconnected (left side)<br>
-\uE14D - Litestrike Bossbar Player Alive (right side)<br>
-\uE14E - Litestrike Bossbar Player Dead (right side)<br>
-\uE14F - Litestrike Bossbar Player Disconnected (right side)<br>
+\uE14A - REDACTED <br>
+\uE14B - REDACTED <br>
+\uE14C - REDACTED <br>
+\uE14D - REDACTED <br>
+\uE14E - REDACTED <br>
+\uE14F - REDACTED <br>
 
-\uE150 - LS Bossbar 5 (left)<br>
-\uE151 - LS Bossbar 4 (left)<br>
-\uE152 - LS Bossbar 3 (left)<br>
-\uE153 - LS Bossbar 2 (left)<br>
-\uE154 - LS Bossbar 1 (left)<br>
-\uE155 - LS Bossbar 0 (left)<br>
-\uE156 - LS Bossbar 0 (right)<br>
-\uE157 - LS Bossbar 1 (right)<br>
-\uE158 - LS Bossbar 2 (right)<br>
-\uE159 - LS Bossbar 3 (right)<br>
-\uE15A - LS Bossbar 4 (right)<br>
-\uE15B - LS Bossbar 5 (right)<br>
+\uE150 - REDACTED <br>
+\uE151 - REDACTED <br>
+\uE152 - REDACTED <br>
+\uE153 - REDACTED <br>
+\uE154 - REDACTED <br>
+\uE155 - REDACTED <br>
+\uE156 - REDACTED <br>
+\uE157 - REDACTED <br>
+\uE158 - REDACTED <br>
+\uE159 - REDACTED <br>
+\uE15A - REDACTED <br>
+\uE15B - REDACTED <br>
 
 \uE200 - old LiteStrike Bossbar Green Left Piece <br>
 \uE201 - old LiteStrike Bossbar Green Right Piece <br>
@@ -174,5 +171,5 @@ The TubNet Team - Some assets<br>
 
 \uE400 - Litestrike Bossbar <br>
 \uE15C - Money <br>
-\uE320 - Knockoff Logo <br>
+\uE320 - REDACTED <br>
 \uE321 - Level Up Symbol <br>
