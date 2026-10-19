@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": {"model": "crystalized:block/ms_tile_1"},
+        "facing=north": {"model": "crystalized:block/ms_tile_2"},
+        "facing=south": {"model": "crystalized:block/ms_tile_3"},
+        "facing=west": {"model": "crystalized:block/ms_tile_4"}
+    }
+}
