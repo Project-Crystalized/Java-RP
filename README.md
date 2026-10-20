@@ -7,6 +7,13 @@ Abbymcraft - Modeling<br>
 Thejoeybug - Modeling<br>
 The TubNet Team - Some assets<br>
 
+By Submitting to the Repo you accept the following terms:
+The project can use, reproduce, modify, adapt, combine, host, and distribute submitted work.
+Those rights are irrevocable to the extent permitted by law and continue after the contributor leaves the team or the collaboration ends.
+Crystalized can include contributions in the server, downloadable maps, resource packs, promotional material, and future releases.
+Contributors generally retain copyright in their original work, but cannot withdraw the rights already granted merely because they leave.
+Contributors promise that they created the work or have permission to submit it under the agreed terms.
+
 # Unicode List
 \uA000 - Negative Space (You need this before typing a double chest gui's unicode, this pushes the text backwards) <br>
 \uA001 - LS Shop Gui <br>
