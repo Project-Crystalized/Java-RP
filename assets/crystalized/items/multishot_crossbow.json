@@ -30,6 +30,13 @@
 					"type": "minecraft:model",
 					"model": "crystalized:item/crossbow/multishot/crossbow_arrow_wind"
 				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "crystalized:item/crossbow/multishot/crossbow_arrow_supportive"
+				}
 			}
 		],
 		"fallback": {
