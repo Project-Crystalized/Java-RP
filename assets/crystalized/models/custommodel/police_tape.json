@@ -1,0 +1,96 @@
+{
+	"format_version": "1.21.11",
+	"credit": "MiteDA",
+	"texture_size": [
+		64,
+		64
+	],
+	"textures": {
+		"0": "crystalized:item/custommodel/police_tape",
+		"particle": "crystalized:item/custommodel/police_tape"
+	},
+	"elements": [
+		{
+			"from": [
+				-16.0,
+				12.0,
+				15.975
+			],
+			"to": [
+				32.0,
+				15.0,
+				15.975
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						0.0,
+						0.0,
+						12.0,
+						0.75
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						0.0,
+						0.0,
+						0.0,
+						0.5
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						0.5,
+						0.75,
+						12.5,
+						1.5
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						0.0,
+						0.0,
+						0.0,
+						0.5
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						0.0,
+						0.0,
+						12.0,
+						0.0
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						0.0,
+						0.0,
+						12.0,
+						0.0
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [
+				0,
+				-17.7,
+				0
+			],
+			"scale": [
+				3.2,
+				3.2,
+				3.2
+			]
+		}
+	}
+}
